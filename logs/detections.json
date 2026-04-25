@@ -1,0 +1,1135 @@
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 20:57:26", "event_type": "Violence", "confidence": 0.802, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 20:57:29", "event_type": "Violence", "confidence": 0.9937, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 20:57:33", "event_type": "Violence", "confidence": 0.978, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 20:57:36", "event_type": "Violence", "confidence": 0.9975, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 20:57:40", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 20:57:41", "event_type": "Smoke", "confidence": 0.6502, "details": "(516, 445, 555, 476)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 20:57:44", "event_type": "Violence", "confidence": 0.9967, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 20:57:48", "event_type": "Violence", "confidence": 0.9983, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 20:57:51", "event_type": "Violence", "confidence": 0.9997, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 20:57:54", "event_type": "Violence", "confidence": 0.999, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 20:57:54", "event_type": "Gun", "confidence": 0.5518, "details": "(353, 257, 550, 462)"}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 20:57:58", "event_type": "Violence", "confidence": 0.9986, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 20:58:02", "event_type": "Violence", "confidence": 0.9993, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-03-29 20:58:05", "event_type": "Violence", "confidence": 0.9968, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-03-29 20:58:08", "event_type": "Violence", "confidence": 0.9993, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-03-29 20:58:12", "event_type": "Violence", "confidence": 0.9947, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-03-29 20:58:15", "event_type": "Violence", "confidence": 0.9909, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-03-29 20:58:19", "event_type": "Violence", "confidence": 0.9995, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-29 20:58:22", "event_type": "Violence", "confidence": 0.9993, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-29 20:58:25", "event_type": "Violence", "confidence": 0.997, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-29 20:58:29", "event_type": "Violence", "confidence": 0.9984, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 20:58:33", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 20:58:36", "event_type": "Violence", "confidence": 0.9988, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 20:58:39", "event_type": "Violence", "confidence": 0.998, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 20:58:43", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 20:58:46", "event_type": "Violence", "confidence": 0.999, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 20:58:50", "event_type": "Violence", "confidence": 0.9984, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 20:58:53", "event_type": "Violence", "confidence": 0.9962, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 20:58:57", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 20:59:00", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 20:59:04", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 20:59:07", "event_type": "Violence", "confidence": 0.9995, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 20:59:11", "event_type": "Violence", "confidence": 0.9999, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 20:59:14", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-29 20:59:18", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-29 20:59:21", "event_type": "Violence", "confidence": 0.9995, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-29 20:59:24", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-29 20:59:28", "event_type": "Violence", "confidence": 0.9996, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-29 20:59:33", "event_type": "Violence", "confidence": 0.9984, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-29 20:59:36", "event_type": "Violence", "confidence": 0.9994, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-29 20:59:40", "event_type": "Violence", "confidence": 0.9976, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-29 20:59:43", "event_type": "Violence", "confidence": 0.9993, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-03-29 20:59:44", "event_type": "Gun", "confidence": 0.5683, "details": "(14, 104, 630, 337)"}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-03-29 20:59:47", "event_type": "Violence", "confidence": 0.9976, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-03-29 20:59:50", "event_type": "Violence", "confidence": 0.9979, "details": ""}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-03-29 20:59:54", "event_type": "Violence", "confidence": 0.9989, "details": ""}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-03-29 20:59:57", "event_type": "Violence", "confidence": 0.9932, "details": ""}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-03-29 21:00:01", "event_type": "Violence", "confidence": 0.9963, "details": ""}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-03-29 21:00:04", "event_type": "Violence", "confidence": 0.9995, "details": ""}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-03-29 21:00:07", "event_type": "Violence", "confidence": 0.9985, "details": ""}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-03-29 21:00:12", "event_type": "Violence", "confidence": 0.9995, "details": ""}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-03-29 21:00:15", "event_type": "Violence", "confidence": 0.999, "details": ""}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-03-29 21:00:19", "event_type": "Violence", "confidence": 0.9974, "details": ""}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-03-29 21:00:20", "event_type": "Gun", "confidence": 0.5147, "details": "(130, 37, 635, 451)"}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-03-29 21:00:23", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-03-29 21:00:26", "event_type": "Violence", "confidence": 0.9944, "details": ""}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-03-29 21:00:29", "event_type": "Violence", "confidence": 0.9956, "details": ""}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-03-29 21:00:33", "event_type": "Violence", "confidence": 0.9981, "details": ""}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-03-29 21:00:36", "event_type": "Violence", "confidence": 0.9975, "details": ""}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-03-29 21:00:40", "event_type": "Violence", "confidence": 0.9951, "details": ""}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-29 21:00:43", "event_type": "Violence", "confidence": 0.9987, "details": ""}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-29 21:00:46", "event_type": "Violence", "confidence": 0.9939, "details": ""}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-29 21:00:49", "event_type": "Violence", "confidence": 0.7531, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:04:38", "event_type": "Violence", "confidence": 0.802, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:04:41", "event_type": "Violence", "confidence": 0.9915, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:04:45", "event_type": "Violence", "confidence": 0.9868, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:04:48", "event_type": "Violence", "confidence": 0.994, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:04:53", "event_type": "Violence", "confidence": 0.9973, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:04:58", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:05:01", "event_type": "Smoke", "confidence": 0.6502, "details": "(516, 445, 555, 476)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:05:02", "event_type": "Violence", "confidence": 0.9987, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:05:05", "event_type": "Violence", "confidence": 0.9983, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:05:09", "event_type": "Violence", "confidence": 0.9997, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:05:11", "event_type": "Gun", "confidence": 0.5518, "details": "(353, 257, 550, 462)"}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:05:13", "event_type": "Violence", "confidence": 0.999, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:05:16", "event_type": "Violence", "confidence": 0.9999, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:05:20", "event_type": "Violence", "confidence": 0.9997, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-03-29 21:05:23", "event_type": "Violence", "confidence": 0.9968, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-03-29 21:05:27", "event_type": "Violence", "confidence": 0.9959, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-03-29 21:05:31", "event_type": "Violence", "confidence": 0.9929, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-03-29 21:05:34", "event_type": "Violence", "confidence": 0.9967, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-03-29 21:05:37", "event_type": "Violence", "confidence": 0.9997, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-03-29 21:05:41", "event_type": "Violence", "confidence": 0.9908, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-03-29 21:05:45", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-29 21:05:48", "event_type": "Violence", "confidence": 0.9993, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-29 21:05:51", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-29 21:05:55", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 21:05:58", "event_type": "Violence", "confidence": 0.9996, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 21:06:02", "event_type": "Violence", "confidence": 0.9993, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 21:06:06", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 21:06:09", "event_type": "Violence", "confidence": 0.9996, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 21:06:13", "event_type": "Violence", "confidence": 0.998, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 21:06:16", "event_type": "Violence", "confidence": 0.998, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 21:06:20", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 21:06:23", "event_type": "Violence", "confidence": 0.9997, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 21:06:30", "event_type": "Violence", "confidence": 0.9994, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 21:06:34", "event_type": "Violence", "confidence": 0.9987, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 21:06:38", "event_type": "Violence", "confidence": 0.9972, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 21:06:41", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 21:06:46", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 21:06:50", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 21:06:53", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 21:06:57", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 21:07:02", "event_type": "Violence", "confidence": 0.9999, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 21:07:07", "event_type": "Violence", "confidence": 0.9996, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 21:07:11", "event_type": "Violence", "confidence": 0.9997, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 21:07:14", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 21:07:18", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-29 21:07:21", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-29 21:07:25", "event_type": "Violence", "confidence": 0.9995, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-29 21:07:29", "event_type": "Violence", "confidence": 0.9994, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-29 21:07:32", "event_type": "Violence", "confidence": 0.9984, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-29 21:07:36", "event_type": "Violence", "confidence": 0.9981, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-29 21:07:39", "event_type": "Violence", "confidence": 0.9988, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-29 21:07:44", "event_type": "Violence", "confidence": 0.9993, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-03-29 21:07:45", "event_type": "Gun", "confidence": 0.5683, "details": "(14, 104, 630, 337)"}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-03-29 21:07:47", "event_type": "Violence", "confidence": 0.9949, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-03-29 21:07:51", "event_type": "Violence", "confidence": 0.9974, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-03-29 21:07:55", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-03-29 21:07:59", "event_type": "Violence", "confidence": 0.9986, "details": ""}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-03-29 21:08:02", "event_type": "Violence", "confidence": 0.9932, "details": ""}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-03-29 21:08:05", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-03-29 21:08:09", "event_type": "Violence", "confidence": 0.998, "details": ""}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-03-29 21:08:12", "event_type": "Violence", "confidence": 0.9964, "details": ""}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-03-29 21:08:16", "event_type": "Violence", "confidence": 0.9995, "details": ""}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-03-29 21:08:20", "event_type": "Violence", "confidence": 0.999, "details": ""}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-03-29 21:08:23", "event_type": "Violence", "confidence": 0.9936, "details": ""}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-03-29 21:08:23", "event_type": "Gun", "confidence": 0.5147, "details": "(130, 37, 635, 451)"}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-03-29 21:08:27", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-03-29 21:08:31", "event_type": "Violence", "confidence": 0.9974, "details": ""}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-03-29 21:08:34", "event_type": "Violence", "confidence": 0.9951, "details": ""}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-03-29 21:08:37", "event_type": "Violence", "confidence": 0.9981, "details": ""}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-03-29 21:08:40", "event_type": "Violence", "confidence": 0.9975, "details": ""}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-03-29 21:08:44", "event_type": "Violence", "confidence": 0.9951, "details": ""}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-29 21:08:47", "event_type": "Violence", "confidence": 0.9987, "details": ""}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-29 21:08:50", "event_type": "Violence", "confidence": 0.9884, "details": ""}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-29 21:08:54", "event_type": "Violence", "confidence": 0.9761, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:12:30", "event_type": "Violence", "confidence": 0.802, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:12:34", "event_type": "Violence", "confidence": 0.9937, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:12:37", "event_type": "Violence", "confidence": 0.9724, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:12:40", "event_type": "Violence", "confidence": 0.9957, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:12:43", "event_type": "Smoke", "confidence": 0.6502, "details": "(516, 445, 555, 476)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:12:44", "event_type": "Violence", "confidence": 0.9987, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:12:47", "event_type": "Violence", "confidence": 0.9962, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:12:51", "event_type": "Violence", "confidence": 0.995, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:12:54", "event_type": "Violence", "confidence": 0.9998, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:12:56", "event_type": "Gun", "confidence": 0.5518, "details": "(353, 257, 550, 462)"}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:12:57", "event_type": "Violence", "confidence": 0.999, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:13:01", "event_type": "Violence", "confidence": 0.9999, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:14:16", "event_type": "Fire", "confidence": 0.8415, "details": "(63, 2, 231, 155)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:14:19", "event_type": "Fire", "confidence": 0.8469, "details": "(93, 41, 248, 188)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:14:24", "event_type": "Fire", "confidence": 0.8625, "details": "(131, 42, 254, 190)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:14:27", "event_type": "Fire", "confidence": 0.8076, "details": "(117, 38, 242, 193)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:14:31", "event_type": "Fire", "confidence": 0.849, "details": "(100, 40, 256, 181)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:14:34", "event_type": "Fire", "confidence": 0.8481, "details": "(85, 16, 236, 171)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:14:37", "event_type": "Fire", "confidence": 0.8532, "details": "(61, 2, 218, 155)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:14:41", "event_type": "Fire", "confidence": 0.8592, "details": "(50, 3, 206, 145)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:14:44", "event_type": "Fire", "confidence": 0.8213, "details": "(41, 3, 204, 157)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:14:47", "event_type": "Fire", "confidence": 0.8758, "details": "(68, 23, 233, 173)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:14:52", "event_type": "Fire", "confidence": 0.8623, "details": "(121, 38, 264, 190)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:15:35", "event_type": "Gun", "confidence": 0.5847, "details": "(119, 1, 605, 454)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:15:35", "event_type": "Fire", "confidence": 0.4198, "details": "(254, 50, 280, 82)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:15:40", "event_type": "Fire", "confidence": 0.53, "details": "(252, 48, 283, 79)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:15:50", "event_type": "Violence", "confidence": 0.7583, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:15:53", "event_type": "Violence", "confidence": 0.889, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:15:57", "event_type": "Violence", "confidence": 0.9383, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:16:01", "event_type": "Violence", "confidence": 0.9782, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:16:05", "event_type": "Violence", "confidence": 0.9586, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:16:05", "event_type": "Gun", "confidence": 0.4224, "details": "(138, 2, 607, 311)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:16:08", "event_type": "Violence", "confidence": 0.9644, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:16:08", "event_type": "Gun", "confidence": 0.4222, "details": "(154, 3, 605, 301)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:16:08", "event_type": "Fire", "confidence": 0.4197, "details": "(252, 52, 275, 81)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:16:11", "event_type": "Violence", "confidence": 0.943, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:16:12", "event_type": "Fire", "confidence": 0.4821, "details": "(36, 430, 69, 480)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:16:15", "event_type": "Violence", "confidence": 0.9683, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:16:19", "event_type": "Violence", "confidence": 0.9779, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:16:23", "event_type": "Violence", "confidence": 0.9907, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:16:26", "event_type": "Violence", "confidence": 0.9904, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:16:30", "event_type": "Violence", "confidence": 0.9879, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:16:32", "event_type": "Gun", "confidence": 0.487, "details": "(179, 2, 553, 399)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:16:34", "event_type": "Violence", "confidence": 0.9928, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:16:35", "event_type": "Gun", "confidence": 0.6384, "details": "(183, 1, 553, 383)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:16:38", "event_type": "Violence", "confidence": 0.9957, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:16:42", "event_type": "Violence", "confidence": 0.996, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:16:47", "event_type": "Violence", "confidence": 0.9985, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:17:23", "event_type": "Violence", "confidence": 0.9383, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:17:26", "event_type": "Violence", "confidence": 0.9714, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:17:30", "event_type": "Violence", "confidence": 0.974, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:17:35", "event_type": "Violence", "confidence": 0.9644, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-29 21:17:39", "event_type": "Violence", "confidence": 0.9647, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:17:43", "event_type": "Violence", "confidence": 0.9733, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:17:46", "event_type": "Violence", "confidence": 0.9907, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:17:49", "event_type": "Violence", "confidence": 0.9899, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:17:53", "event_type": "Violence", "confidence": 0.9928, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:17:56", "event_type": "Violence", "confidence": 0.9971, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:17:59", "event_type": "Violence", "confidence": 0.9985, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:18:03", "event_type": "Violence", "confidence": 0.9993, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:18:06", "event_type": "Violence", "confidence": 0.9994, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:18:10", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:18:14", "event_type": "Violence", "confidence": 0.9979, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:18:18", "event_type": "Violence", "confidence": 0.9975, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:18:21", "event_type": "Violence", "confidence": 0.9975, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:18:25", "event_type": "Violence", "confidence": 0.9979, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:18:29", "event_type": "Violence", "confidence": 0.9987, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:18:33", "event_type": "Violence", "confidence": 0.9981, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:18:36", "event_type": "Violence", "confidence": 0.9943, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:18:40", "event_type": "Violence", "confidence": 0.9955, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:18:44", "event_type": "Violence", "confidence": 0.9876, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:18:47", "event_type": "Violence", "confidence": 0.9985, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:18:51", "event_type": "Violence", "confidence": 0.9919, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:18:56", "event_type": "Violence", "confidence": 0.9783, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:35:04", "event_type": "Violence", "confidence": 0.9064, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:35:08", "event_type": "Violence", "confidence": 0.9211, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:35:17", "event_type": "Violence", "confidence": 0.9148, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:35:20", "event_type": "Violence", "confidence": 0.9471, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:35:24", "event_type": "Violence", "confidence": 0.9409, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:35:29", "event_type": "Violence", "confidence": 0.9456, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:35:32", "event_type": "Violence", "confidence": 0.9543, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:35:35", "event_type": "Violence", "confidence": 0.95, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:35:38", "event_type": "Violence", "confidence": 0.9492, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:35:43", "event_type": "Violence", "confidence": 0.9352, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:35:47", "event_type": "Violence", "confidence": 0.923, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:35:50", "event_type": "Violence", "confidence": 0.9491, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:35:53", "event_type": "Violence", "confidence": 0.9568, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:35:56", "event_type": "Violence", "confidence": 0.9569, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:36:01", "event_type": "Violence", "confidence": 0.9668, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:36:04", "event_type": "Violence", "confidence": 0.9704, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:36:07", "event_type": "Violence", "confidence": 0.978, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:36:10", "event_type": "Violence", "confidence": 0.9765, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-03-29 21:36:13", "event_type": "Violence", "confidence": 0.9497, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-29 21:37:08", "event_type": "Violence", "confidence": 0.9138, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-29 21:37:11", "event_type": "Violence", "confidence": 0.9299, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-29 21:37:15", "event_type": "Violence", "confidence": 0.9759, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 21:37:20", "event_type": "Violence", "confidence": 0.9953, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 21:37:24", "event_type": "Violence", "confidence": 0.9941, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 21:37:27", "event_type": "Violence", "confidence": 0.9905, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 21:37:30", "event_type": "Violence", "confidence": 0.9878, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 21:37:34", "event_type": "Violence", "confidence": 0.9759, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 21:37:37", "event_type": "Violence", "confidence": 0.9821, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-29 21:37:40", "event_type": "Violence", "confidence": 0.991, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 21:37:43", "event_type": "Violence", "confidence": 0.9818, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 21:37:46", "event_type": "Violence", "confidence": 0.9887, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 21:37:49", "event_type": "Violence", "confidence": 0.9866, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 21:37:52", "event_type": "Violence", "confidence": 0.9815, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 21:37:56", "event_type": "Violence", "confidence": 0.9719, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 21:37:59", "event_type": "Violence", "confidence": 0.9783, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 21:38:02", "event_type": "Violence", "confidence": 0.9887, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 21:38:06", "event_type": "Violence", "confidence": 0.9785, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 21:38:09", "event_type": "Violence", "confidence": 0.9906, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 21:38:12", "event_type": "Violence", "confidence": 0.9951, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 21:38:15", "event_type": "Violence", "confidence": 0.9951, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 21:38:20", "event_type": "Violence", "confidence": 0.989, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 21:38:24", "event_type": "Violence", "confidence": 0.9943, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 21:38:27", "event_type": "Violence", "confidence": 0.9958, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 21:38:31", "event_type": "Violence", "confidence": 0.9959, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 21:38:34", "event_type": "Violence", "confidence": 0.998, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 21:38:38", "event_type": "Violence", "confidence": 0.9984, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 21:38:41", "event_type": "Violence", "confidence": 0.9994, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 21:38:45", "event_type": "Violence", "confidence": 0.9981, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-29 21:38:50", "event_type": "Violence", "confidence": 0.9938, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 21:38:53", "event_type": "Violence", "confidence": 0.9646, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 21:38:56", "event_type": "Violence", "confidence": 0.9608, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 21:39:01", "event_type": "Violence", "confidence": 0.9825, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 21:39:04", "event_type": "Violence", "confidence": 0.9773, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 21:39:07", "event_type": "Violence", "confidence": 0.9821, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 21:39:10", "event_type": "Violence", "confidence": 0.9596, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 21:39:13", "event_type": "Violence", "confidence": 0.9513, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-29 21:39:17", "event_type": "Violence", "confidence": 0.9763, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-29 21:39:20", "event_type": "Violence", "confidence": 0.9514, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-29 21:39:23", "event_type": "Violence", "confidence": 0.9366, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:41:28", "event_type": "Violence", "confidence": 0.9189, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:41:32", "event_type": "Violence", "confidence": 0.9217, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:41:35", "event_type": "Violence", "confidence": 0.9373, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:41:38", "event_type": "Violence", "confidence": 0.9331, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:41:43", "event_type": "Violence", "confidence": 0.9672, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:41:46", "event_type": "Violence", "confidence": 0.9642, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:41:50", "event_type": "Violence", "confidence": 0.9779, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:41:53", "event_type": "Violence", "confidence": 0.9654, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:42:57", "event_type": "Violence", "confidence": 0.9189, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:43:00", "event_type": "Violence", "confidence": 0.9217, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:43:04", "event_type": "Violence", "confidence": 0.9373, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:43:07", "event_type": "Violence", "confidence": 0.9331, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:43:12", "event_type": "Violence", "confidence": 0.9672, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:43:15", "event_type": "Violence", "confidence": 0.9642, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:43:18", "event_type": "Violence", "confidence": 0.9779, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:43:22", "event_type": "Violence", "confidence": 0.9654, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:55:18", "event_type": "Violence", "confidence": 0.9183, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:55:21", "event_type": "Violence", "confidence": 0.926, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:55:25", "event_type": "Violence", "confidence": 0.9487, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:55:29", "event_type": "Violence", "confidence": 0.9502, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:55:32", "event_type": "Violence", "confidence": 0.962, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:55:35", "event_type": "Violence", "confidence": 0.9757, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-29 21:55:39", "event_type": "Violence", "confidence": 0.9536, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:56:27", "event_type": "Violence", "confidence": 0.9064, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:56:32", "event_type": "Violence", "confidence": 0.9202, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:56:41", "event_type": "Violence", "confidence": 0.9148, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:56:45", "event_type": "Violence", "confidence": 0.9471, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:56:48", "event_type": "Violence", "confidence": 0.9458, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-29 21:56:51", "event_type": "Violence", "confidence": 0.9305, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:56:55", "event_type": "Violence", "confidence": 0.9456, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:56:58", "event_type": "Violence", "confidence": 0.9543, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:57:01", "event_type": "Violence", "confidence": 0.95, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:57:05", "event_type": "Violence", "confidence": 0.9492, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:57:08", "event_type": "Violence", "confidence": 0.9381, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:57:11", "event_type": "Violence", "confidence": 0.9259, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-29 21:57:15", "event_type": "Violence", "confidence": 0.923, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-03-29 21:59:31", "event_type": "Gun", "confidence": 0.5192, "details": "(23, 0, 620, 471)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-29 21:59:44", "event_type": "Gun", "confidence": 0.5852, "details": "(30, 0, 634, 473)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-29 21:59:47", "event_type": "Gun", "confidence": 0.5067, "details": "(82, 3, 638, 480)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-29 21:59:52", "event_type": "Gun", "confidence": 0.4092, "details": "(10, 0, 638, 478)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 22:00:08", "event_type": "Fire", "confidence": 0.6681, "details": "(333, 170, 421, 344)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 22:00:12", "event_type": "Fire", "confidence": 0.5617, "details": "(265, 170, 402, 335)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-29 22:00:16", "event_type": "Fire", "confidence": 0.8876, "details": "(268, 59, 414, 281)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 22:00:21", "event_type": "Fire", "confidence": 0.7876, "details": "(219, 51, 385, 253)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 22:00:25", "event_type": "Gun", "confidence": 0.4977, "details": "(18, 14, 626, 480)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-29 22:00:28", "event_type": "Fire", "confidence": 0.6707, "details": "(328, 134, 455, 338)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 22:01:11", "event_type": "Fire", "confidence": 0.6412, "details": "(338, 328, 457, 480)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-29 22:01:15", "event_type": "Gun", "confidence": 0.5117, "details": "(235, 211, 449, 479)"}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-29 22:01:44", "event_type": "Fire", "confidence": 0.6202, "details": "(463, 373, 539, 458)"}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-03-29 22:02:15", "event_type": "Gun", "confidence": 0.4361, "details": "(423, 269, 597, 376)"}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-03-29 22:02:19", "event_type": "Gun", "confidence": 0.4045, "details": "(407, 267, 548, 371)"}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-03-29 22:02:27", "event_type": "Gun", "confidence": 0.4182, "details": "(415, 278, 587, 387)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-03-29 22:02:53", "event_type": "Fire", "confidence": 0.5961, "details": "(209, 281, 296, 448)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-03-29 22:02:57", "event_type": "Fire", "confidence": 0.8763, "details": "(234, 149, 324, 384)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-03-29 22:03:00", "event_type": "Fire", "confidence": 0.9139, "details": "(262, 119, 366, 376)"}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-03-29 22:03:08", "event_type": "Fire", "confidence": 0.4094, "details": "(275, 141, 351, 414)"}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-29 22:03:25", "event_type": "Gun", "confidence": 0.4499, "details": "(41, 58, 380, 268)"}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-29 22:03:30", "event_type": "Gun", "confidence": 0.4025, "details": "(55, 45, 618, 216)"}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-29 22:03:34", "event_type": "Gun", "confidence": 0.4491, "details": "(55, 46, 620, 234)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-03-29 22:03:38", "event_type": "Gun", "confidence": 0.4005, "details": "(56, 49, 621, 224)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-03-29 22:03:41", "event_type": "Gun", "confidence": 0.597, "details": "(52, 40, 617, 220)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-03-29 22:03:44", "event_type": "Gun", "confidence": 0.713, "details": "(43, 34, 613, 216)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-03-29 22:03:48", "event_type": "Gun", "confidence": 0.6243, "details": "(31, 38, 616, 249)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-03-29 22:03:52", "event_type": "Gun", "confidence": 0.6406, "details": "(41, 21, 625, 283)"}
+{"timestamp_video": "0:00:22", "timestamp_wall": "2026-03-29 22:03:55", "event_type": "Gun", "confidence": 0.4621, "details": "(46, 34, 631, 233)"}
+{"timestamp_video": "0:00:22", "timestamp_wall": "2026-03-29 22:04:02", "event_type": "Gun", "confidence": 0.5255, "details": "(393, 124, 604, 343)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:25:18", "event_type": "Violence", "confidence": 0.9672, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:25:22", "event_type": "Violence", "confidence": 0.9766, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-30 18:25:25", "event_type": "Violence", "confidence": 0.9617, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-30 18:25:29", "event_type": "Violence", "confidence": 0.9783, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-30 18:25:32", "event_type": "Violence", "confidence": 0.9836, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-30 18:25:35", "event_type": "Violence", "confidence": 0.9861, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-03-30 18:25:39", "event_type": "Violence", "confidence": 0.9908, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-03-30 18:25:42", "event_type": "Violence", "confidence": 0.9937, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-03-30 18:25:45", "event_type": "Violence", "confidence": 0.9957, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-03-30 18:25:48", "event_type": "Violence", "confidence": 0.9858, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-03-30 18:25:52", "event_type": "Violence", "confidence": 0.9626, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-30 18:25:59", "event_type": "Violence", "confidence": 0.957, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-30 18:26:03", "event_type": "Violence", "confidence": 0.9691, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-30 18:26:03", "event_type": "Gun", "confidence": 0.5341, "details": "(323, 95, 531, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-30 18:26:06", "event_type": "Violence", "confidence": 0.9761, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-30 18:26:10", "event_type": "Violence", "confidence": 0.9752, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-30 18:26:14", "event_type": "Violence", "confidence": 0.9703, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-30 18:26:55", "event_type": "Fire", "confidence": 0.4808, "details": "(287, 269, 303, 289)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:27:11", "event_type": "Violence", "confidence": 0.9598, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:27:15", "event_type": "Violence", "confidence": 0.9811, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-30 18:27:18", "event_type": "Violence", "confidence": 0.995, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-30 18:27:21", "event_type": "Violence", "confidence": 0.9948, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-30 18:27:24", "event_type": "Violence", "confidence": 0.9936, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-30 18:27:28", "event_type": "Violence", "confidence": 0.9693, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-30 18:27:31", "event_type": "Violence", "confidence": 0.9759, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-30 18:27:34", "event_type": "Violence", "confidence": 0.9975, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-03-30 18:27:37", "event_type": "Violence", "confidence": 0.997, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-03-30 18:27:41", "event_type": "Violence", "confidence": 0.9979, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-03-30 18:27:44", "event_type": "Violence", "confidence": 0.9968, "details": ""}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-03-30 18:27:47", "event_type": "Violence", "confidence": 0.9926, "details": ""}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-03-30 18:27:51", "event_type": "Violence", "confidence": 0.9598, "details": ""}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-03-30 18:27:55", "event_type": "Violence", "confidence": 0.9669, "details": ""}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-03-30 18:28:01", "event_type": "Violence", "confidence": 0.9573, "details": ""}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-03-30 18:28:05", "event_type": "Violence", "confidence": 0.9792, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:35:30", "event_type": "Violence", "confidence": 0.9064, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:35:33", "event_type": "Violence", "confidence": 0.9202, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:35:36", "event_type": "Violence", "confidence": 0.9148, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:35:38", "event_type": "Violence", "confidence": 0.9458, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:35:41", "event_type": "Violence", "confidence": 0.9456, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:35:44", "event_type": "Violence", "confidence": 0.953, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:35:46", "event_type": "Violence", "confidence": 0.9492, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:35:49", "event_type": "Violence", "confidence": 0.9259, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-30 18:35:51", "event_type": "Violence", "confidence": 0.9491, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-30 18:35:54", "event_type": "Violence", "confidence": 0.9569, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-30 18:35:56", "event_type": "Violence", "confidence": 0.9708, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-30 18:35:59", "event_type": "Violence", "confidence": 0.9742, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-30 18:36:20", "event_type": "Gun", "confidence": 0.6373, "details": "(33, 0, 632, 474)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-30 18:36:22", "event_type": "Violence", "confidence": 0.9138, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-30 18:36:25", "event_type": "Violence", "confidence": 0.9544, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-30 18:36:27", "event_type": "Violence", "confidence": 0.9953, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-30 18:36:29", "event_type": "Violence", "confidence": 0.9914, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-30 18:36:31", "event_type": "Violence", "confidence": 0.9778, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-30 18:36:34", "event_type": "Violence", "confidence": 0.9779, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-30 18:36:36", "event_type": "Violence", "confidence": 0.9856, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-30 18:36:36", "event_type": "Fire", "confidence": 0.6681, "details": "(333, 170, 421, 344)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-30 18:36:38", "event_type": "Violence", "confidence": 0.9896, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-30 18:36:39", "event_type": "Fire", "confidence": 0.6274, "details": "(227, 146, 392, 292)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-30 18:36:41", "event_type": "Violence", "confidence": 0.9782, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-30 18:36:44", "event_type": "Violence", "confidence": 0.9961, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-30 18:36:45", "event_type": "Fire", "confidence": 0.7876, "details": "(219, 51, 385, 253)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-30 18:36:46", "event_type": "Violence", "confidence": 0.9906, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-30 18:36:49", "event_type": "Violence", "confidence": 0.9951, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-30 18:36:50", "event_type": "Fire", "confidence": 0.6707, "details": "(328, 134, 455, 338)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-30 18:36:51", "event_type": "Violence", "confidence": 0.989, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-30 18:36:54", "event_type": "Violence", "confidence": 0.9943, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-30 18:36:56", "event_type": "Violence", "confidence": 0.9974, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-30 18:36:59", "event_type": "Violence", "confidence": 0.998, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-30 18:37:01", "event_type": "Violence", "confidence": 0.9994, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-30 18:37:04", "event_type": "Violence", "confidence": 0.9991, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:37:06", "event_type": "Violence", "confidence": 0.9646, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:37:09", "event_type": "Violence", "confidence": 0.9754, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:37:09", "event_type": "Fire", "confidence": 0.6412, "details": "(338, 328, 457, 480)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:37:11", "event_type": "Violence", "confidence": 0.959, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:37:14", "event_type": "Violence", "confidence": 0.9342, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-30 18:37:16", "event_type": "Violence", "confidence": 0.9641, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-30 18:37:19", "event_type": "Violence", "confidence": 0.9347, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-30 18:37:21", "event_type": "Violence", "confidence": 0.9721, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-30 18:37:26", "event_type": "Fire", "confidence": 0.6202, "details": "(463, 373, 539, 458)"}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-30 18:37:26", "event_type": "Violence", "confidence": 0.9021, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-30 18:37:29", "event_type": "Violence", "confidence": 0.9578, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-30 18:37:31", "event_type": "Violence", "confidence": 0.9414, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-03-30 18:37:34", "event_type": "Violence", "confidence": 0.9141, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:43:23", "event_type": "Violence", "confidence": 0.9043, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:43:26", "event_type": "Violence", "confidence": 0.9207, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:43:29", "event_type": "Violence", "confidence": 0.9174, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:43:31", "event_type": "Violence", "confidence": 0.9432, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:43:33", "event_type": "Violence", "confidence": 0.9336, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:43:36", "event_type": "Violence", "confidence": 0.9514, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:43:38", "event_type": "Violence", "confidence": 0.9429, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:43:40", "event_type": "Violence", "confidence": 0.9201, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:43:42", "event_type": "Violence", "confidence": 0.9356, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-30 18:43:45", "event_type": "Violence", "confidence": 0.9561, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-30 18:43:47", "event_type": "Violence", "confidence": 0.9654, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-03-30 18:43:49", "event_type": "Violence", "confidence": 0.9774, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-03-30 18:43:52", "event_type": "Violence", "confidence": 0.9437, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-30 18:44:14", "event_type": "Violence", "confidence": 0.9157, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-03-30 18:44:16", "event_type": "Violence", "confidence": 0.9772, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-30 18:44:19", "event_type": "Violence", "confidence": 0.9961, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-30 18:44:21", "event_type": "Violence", "confidence": 0.9903, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-30 18:44:23", "event_type": "Violence", "confidence": 0.9759, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-03-30 18:44:26", "event_type": "Violence", "confidence": 0.9775, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-30 18:44:28", "event_type": "Violence", "confidence": 0.9855, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-30 18:44:31", "event_type": "Violence", "confidence": 0.99, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-30 18:44:33", "event_type": "Violence", "confidence": 0.9728, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-30 18:44:33", "event_type": "Fire", "confidence": 0.7851, "details": "(262, 47, 415, 208)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-03-30 18:44:35", "event_type": "Violence", "confidence": 0.9863, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-30 18:44:37", "event_type": "Violence", "confidence": 0.9781, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-30 18:44:39", "event_type": "Violence", "confidence": 0.9951, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-30 18:44:42", "event_type": "Violence", "confidence": 0.9937, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-03-30 18:44:44", "event_type": "Violence", "confidence": 0.9942, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-30 18:44:46", "event_type": "Violence", "confidence": 0.9972, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-30 18:44:49", "event_type": "Violence", "confidence": 0.998, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-30 18:44:51", "event_type": "Violence", "confidence": 0.9994, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-03-30 18:44:54", "event_type": "Violence", "confidence": 0.9981, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:44:56", "event_type": "Violence", "confidence": 0.9784, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:44:58", "event_type": "Violence", "confidence": 0.9639, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:45:01", "event_type": "Violence", "confidence": 0.9845, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:45:03", "event_type": "Violence", "confidence": 0.9813, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:45:04", "event_type": "Gun", "confidence": 0.6173, "details": "(227, 162, 441, 360)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-03-30 18:45:05", "event_type": "Violence", "confidence": 0.9462, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-30 18:45:08", "event_type": "Violence", "confidence": 0.9469, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-30 18:45:10", "event_type": "Violence", "confidence": 0.9342, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-03-30 18:45:12", "event_type": "Violence", "confidence": 0.91, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-30 18:45:17", "event_type": "Violence", "confidence": 0.902, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-03-30 18:45:19", "event_type": "Violence", "confidence": 0.9408, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-03-30 18:45:22", "event_type": "Violence", "confidence": 0.9363, "details": ""}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-03-30 18:45:55", "event_type": "Violence", "confidence": 0.9034, "details": ""}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-03-30 18:45:56", "event_type": "Fire", "confidence": 0.762, "details": "(191, 174, 285, 334)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-03-30 18:45:58", "event_type": "Fire", "confidence": 0.6224, "details": "(257, 94, 324, 285)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-03-30 18:46:02", "event_type": "Fire", "confidence": 0.7176, "details": "(281, 83, 345, 276)"}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-03-30 18:46:04", "event_type": "Fire", "confidence": 0.7929, "details": "(287, 100, 344, 306)"}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-03-30 18:46:07", "event_type": "Violence", "confidence": 0.913, "details": ""}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-03-30 18:46:09", "event_type": "Violence", "confidence": 0.9345, "details": ""}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-03-30 18:46:12", "event_type": "Violence", "confidence": 0.9788, "details": ""}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-30 18:46:14", "event_type": "Violence", "confidence": 0.9749, "details": ""}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-30 18:46:16", "event_type": "Gun", "confidence": 0.6104, "details": "(47, 43, 374, 175)"}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-30 18:46:17", "event_type": "Violence", "confidence": 0.9525, "details": ""}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-30 18:46:19", "event_type": "Violence", "confidence": 0.965, "details": ""}
+{"timestamp_video": "0:00:20", "timestamp_wall": "2026-03-30 18:46:22", "event_type": "Violence", "confidence": 0.967, "details": ""}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-03-30 18:46:28", "event_type": "Gun", "confidence": 0.4724, "details": "(50, 41, 599, 175)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-30 18:46:29", "event_type": "Fire", "confidence": 0.8412, "details": "(58, 1, 228, 116)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-30 18:46:31", "event_type": "Fire", "confidence": 0.8695, "details": "(95, 22, 235, 140)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-03-30 18:46:31", "event_type": "Gun", "confidence": 0.4593, "details": "(47, 41, 599, 164)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-30 18:46:33", "event_type": "Fire", "confidence": 0.9034, "details": "(112, 33, 240, 147)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-03-30 18:46:34", "event_type": "Gun", "confidence": 0.6964, "details": "(48, 41, 600, 226)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-30 18:46:36", "event_type": "Fire", "confidence": 0.8362, "details": "(135, 33, 249, 146)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-03-30 18:46:37", "event_type": "Gun", "confidence": 0.4747, "details": "(43, 38, 613, 234)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-30 18:46:38", "event_type": "Fire", "confidence": 0.8655, "details": "(111, 29, 240, 145)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-30 18:46:41", "event_type": "Fire", "confidence": 0.8538, "details": "(100, 28, 245, 140)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-30 18:46:43", "event_type": "Fire", "confidence": 0.8368, "details": "(88, 9, 236, 129)"}
+{"timestamp_video": "0:00:22", "timestamp_wall": "2026-03-30 18:46:45", "event_type": "Gun", "confidence": 0.4997, "details": "(58, 40, 327, 175)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-03-30 18:46:45", "event_type": "Fire", "confidence": 0.8536, "details": "(63, 0, 215, 116)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:46:48", "event_type": "Fire", "confidence": 0.8577, "details": "(51, 0, 201, 113)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:46:50", "event_type": "Fire", "confidence": 0.8522, "details": "(39, 0, 197, 120)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:46:52", "event_type": "Fire", "confidence": 0.8634, "details": "(69, 14, 228, 131)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:46:55", "event_type": "Fire", "confidence": 0.8663, "details": "(121, 31, 258, 145)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:46:57", "event_type": "Fire", "confidence": 0.8348, "details": "(132, 25, 271, 147)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:47:00", "event_type": "Fire", "confidence": 0.852, "details": "(102, 24, 260, 144)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-03-30 18:47:02", "event_type": "Fire", "confidence": 0.8451, "details": "(86, 9, 212, 136)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:47:05", "event_type": "Fire", "confidence": 0.8559, "details": "(1, 8, 137, 139)"}
+{"timestamp_video": "0:00:23", "timestamp_wall": "2026-03-30 18:47:08", "event_type": "Gun", "confidence": 0.455, "details": "(52, 5, 507, 170)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-03-30 18:47:12", "event_type": "Fire", "confidence": 0.6269, "details": "(10, 48, 121, 171)"}
+{"timestamp_video": "0:00:24", "timestamp_wall": "2026-03-30 18:47:17", "event_type": "Gun", "confidence": 0.5159, "details": "(46, 1, 627, 180)"}
+{"timestamp_video": "0:00:24", "timestamp_wall": "2026-03-30 18:47:21", "event_type": "Gun", "confidence": 0.5552, "details": "(48, 1, 628, 174)"}
+{"timestamp_video": "0:00:24", "timestamp_wall": "2026-03-30 18:47:26", "event_type": "Gun", "confidence": 0.5671, "details": "(52, 0, 601, 175)"}
+{"timestamp_video": "0:00:24", "timestamp_wall": "2026-03-30 18:47:29", "event_type": "Gun", "confidence": 0.5249, "details": "(38, 6, 618, 168)"}
+{"timestamp_video": "0:00:24", "timestamp_wall": "2026-03-30 18:47:31", "event_type": "Gun", "confidence": 0.4746, "details": "(32, 3, 630, 174)"}
+{"timestamp_video": "0:00:25", "timestamp_wall": "2026-03-30 18:47:34", "event_type": "Gun", "confidence": 0.5345, "details": "(43, 0, 630, 173)"}
+{"timestamp_video": "0:00:25", "timestamp_wall": "2026-03-30 18:47:37", "event_type": "Gun", "confidence": 0.6763, "details": "(33, 0, 628, 172)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 12:39:08", "event_type": "Violence", "confidence": 0.9043, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 12:39:12", "event_type": "Violence", "confidence": 0.9174, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 12:39:15", "event_type": "Violence", "confidence": 0.935, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-01 12:39:17", "event_type": "Violence", "confidence": 0.9519, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-01 12:39:19", "event_type": "Violence", "confidence": 0.9429, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-01 12:39:21", "event_type": "Violence", "confidence": 0.9191, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-01 12:39:24", "event_type": "Violence", "confidence": 0.9561, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-01 12:39:26", "event_type": "Violence", "confidence": 0.9654, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-01 12:39:28", "event_type": "Violence", "confidence": 0.9724, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 12:39:46", "event_type": "Violence", "confidence": 0.9157, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 12:39:48", "event_type": "Violence", "confidence": 0.9772, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 12:39:50", "event_type": "Violence", "confidence": 0.9949, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 12:39:53", "event_type": "Violence", "confidence": 0.9885, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 12:39:54", "event_type": "Gun", "confidence": 0.5882, "details": "(39, 1, 634, 360)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 12:39:55", "event_type": "Violence", "confidence": 0.9775, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 12:39:57", "event_type": "Violence", "confidence": 0.9855, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 12:39:59", "event_type": "Violence", "confidence": 0.99, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 12:40:01", "event_type": "Fire", "confidence": 0.7851, "details": "(262, 47, 415, 208)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 12:40:01", "event_type": "Violence", "confidence": 0.9788, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 12:40:04", "event_type": "Violence", "confidence": 0.9781, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 12:40:06", "event_type": "Violence", "confidence": 0.9986, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 12:40:08", "event_type": "Violence", "confidence": 0.9916, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-01 12:40:10", "event_type": "Violence", "confidence": 0.9972, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-01 12:40:13", "event_type": "Violence", "confidence": 0.9988, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-01 12:40:15", "event_type": "Violence", "confidence": 0.999, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 12:40:18", "event_type": "Violence", "confidence": 0.9784, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 12:40:20", "event_type": "Violence", "confidence": 0.9769, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 12:40:22", "event_type": "Violence", "confidence": 0.96, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 12:40:23", "event_type": "Gun", "confidence": 0.5846, "details": "(233, 152, 451, 360)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 12:40:25", "event_type": "Violence", "confidence": 0.9312, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-01 12:40:27", "event_type": "Violence", "confidence": 0.9469, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-01 12:40:29", "event_type": "Violence", "confidence": 0.9368, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-01 12:40:35", "event_type": "Violence", "confidence": 0.902, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-01 12:40:37", "event_type": "Violence", "confidence": 0.9408, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-04-01 12:40:39", "event_type": "Violence", "confidence": 0.9363, "details": ""}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-04-01 12:41:09", "event_type": "Violence", "confidence": 0.9034, "details": ""}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-01 12:41:10", "event_type": "Fire", "confidence": 0.762, "details": "(191, 174, 285, 334)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 12:41:39", "event_type": "Violence", "confidence": 0.9043, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 12:41:41", "event_type": "Violence", "confidence": 0.9207, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 12:41:46", "event_type": "Violence", "confidence": 0.9174, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 12:41:50", "event_type": "Violence", "confidence": 0.9374, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 12:41:52", "event_type": "Violence", "confidence": 0.935, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-01 12:41:55", "event_type": "Violence", "confidence": 0.9336, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-01 12:41:57", "event_type": "Violence", "confidence": 0.9514, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-01 12:42:00", "event_type": "Violence", "confidence": 0.947, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-01 12:42:03", "event_type": "Violence", "confidence": 0.9318, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-01 12:42:06", "event_type": "Violence", "confidence": 0.9191, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-01 12:42:09", "event_type": "Violence", "confidence": 0.9524, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-01 12:42:11", "event_type": "Violence", "confidence": 0.9561, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-01 12:42:14", "event_type": "Violence", "confidence": 0.966, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-01 12:42:16", "event_type": "Violence", "confidence": 0.9793, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-01 12:42:18", "event_type": "Violence", "confidence": 0.9581, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 12:42:51", "event_type": "Violence", "confidence": 0.9157, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 12:42:54", "event_type": "Violence", "confidence": 0.9397, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 12:42:57", "event_type": "Violence", "confidence": 0.9918, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 12:43:00", "event_type": "Violence", "confidence": 0.9959, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 12:43:02", "event_type": "Violence", "confidence": 0.992, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 12:43:04", "event_type": "Violence", "confidence": 0.9781, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 12:43:05", "event_type": "Gun", "confidence": 0.5882, "details": "(39, 1, 634, 360)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 12:43:07", "event_type": "Violence", "confidence": 0.9827, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 12:43:10", "event_type": "Violence", "confidence": 0.9934, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 12:43:13", "event_type": "Violence", "confidence": 0.9887, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 12:43:16", "event_type": "Violence", "confidence": 0.99, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 12:43:19", "event_type": "Violence", "confidence": 0.9838, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 12:43:20", "event_type": "Fire", "confidence": 0.7851, "details": "(262, 47, 415, 208)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 12:43:21", "event_type": "Violence", "confidence": 0.9863, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 12:43:24", "event_type": "Violence", "confidence": 0.9781, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 12:43:27", "event_type": "Violence", "confidence": 0.9926, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 12:43:30", "event_type": "Violence", "confidence": 0.9953, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 12:43:33", "event_type": "Violence", "confidence": 0.9937, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 12:43:35", "event_type": "Violence", "confidence": 0.9889, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 12:43:38", "event_type": "Violence", "confidence": 0.9925, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-01 12:43:41", "event_type": "Violence", "confidence": 0.9956, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-01 12:43:43", "event_type": "Violence", "confidence": 0.9984, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-01 12:43:46", "event_type": "Violence", "confidence": 0.9992, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-01 12:43:48", "event_type": "Violence", "confidence": 0.9991, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 12:43:51", "event_type": "Violence", "confidence": 0.9784, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 12:43:54", "event_type": "Violence", "confidence": 0.9639, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 12:43:56", "event_type": "Violence", "confidence": 0.9833, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 12:43:59", "event_type": "Violence", "confidence": 0.9775, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 12:44:00", "event_type": "Gun", "confidence": 0.5846, "details": "(233, 152, 451, 360)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 12:44:01", "event_type": "Violence", "confidence": 0.9735, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 12:44:03", "event_type": "Violence", "confidence": 0.9462, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-01 12:44:06", "event_type": "Violence", "confidence": 0.9628, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-01 12:44:08", "event_type": "Violence", "confidence": 0.9245, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-01 12:44:11", "event_type": "Violence", "confidence": 0.9342, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-01 12:44:14", "event_type": "Violence", "confidence": 0.9629, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-01 12:44:23", "event_type": "Violence", "confidence": 0.902, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-01 12:44:25", "event_type": "Violence", "confidence": 0.9462, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-01 12:44:27", "event_type": "Violence", "confidence": 0.9422, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-01 12:44:30", "event_type": "Violence", "confidence": 0.9409, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-01 12:44:32", "event_type": "Violence", "confidence": 0.9206, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-04-01 12:44:36", "event_type": "Violence", "confidence": 0.9363, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-01 12:57:06", "event_type": "Gun", "confidence": 0.4707, "details": "(20, 0, 315, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 12:57:16", "event_type": "Gun", "confidence": 0.7588, "details": "(48, 1, 316, 240)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 12:57:26", "event_type": "Fire", "confidence": 0.8106, "details": "(142, 81, 205, 168)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 12:57:29", "event_type": "Fire", "confidence": 0.793, "details": "(148, 74, 203, 138)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 12:57:34", "event_type": "Fire", "confidence": 0.5356, "details": "(163, 67, 229, 169)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-01 13:04:49", "event_type": "Gun", "confidence": 0.4707, "details": "(20, 0, 315, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 13:04:57", "event_type": "Gun", "confidence": 0.7588, "details": "(48, 1, 316, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 13:04:59", "event_type": "Gun", "confidence": 0.5295, "details": "(47, 0, 317, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 13:05:02", "event_type": "Violence", "confidence": 0.846, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 13:05:11", "event_type": "Violence", "confidence": 0.7842, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 13:05:13", "event_type": "Fire", "confidence": 0.8106, "details": "(142, 81, 205, 168)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 13:05:15", "event_type": "Violence", "confidence": 0.7398, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 13:05:15", "event_type": "Fire", "confidence": 0.5312, "details": "(131, 85, 201, 167)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 13:05:17", "event_type": "Fire", "confidence": 0.793, "details": "(148, 74, 203, 138)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 13:05:24", "event_type": "Violence", "confidence": 0.6746, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 13:05:26", "event_type": "Violence", "confidence": 0.8741, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 13:05:26", "event_type": "Fire", "confidence": 0.5356, "details": "(163, 67, 229, 169)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 13:05:29", "event_type": "Violence", "confidence": 0.7579, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-01 13:05:31", "event_type": "Violence", "confidence": 0.856, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-01 13:05:37", "event_type": "Violence", "confidence": 0.6198, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 13:05:47", "event_type": "Violence", "confidence": 0.675, "details": ""}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-01 13:06:47", "event_type": "Fire", "confidence": 0.8759, "details": "(95, 115, 143, 221)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-01 13:06:50", "event_type": "Fire", "confidence": 0.7914, "details": "(122, 67, 165, 192)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-01 13:06:55", "event_type": "Fire", "confidence": 0.7709, "details": "(137, 58, 180, 196)"}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-04-01 13:06:57", "event_type": "Fire", "confidence": 0.782, "details": "(139, 85, 179, 209)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-04-01 13:07:16", "event_type": "Gun", "confidence": 0.5345, "details": "(18, 7, 309, 117)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 13:08:53", "event_type": "Gun", "confidence": 0.7588, "details": "(48, 1, 316, 240)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 13:08:59", "event_type": "Violence", "confidence": 0.9129, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 13:09:11", "event_type": "Fire", "confidence": 0.8106, "details": "(142, 81, 205, 168)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 13:09:15", "event_type": "Fire", "confidence": 0.793, "details": "(148, 74, 203, 138)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-01 13:10:40", "event_type": "Fire", "confidence": 0.8759, "details": "(95, 115, 143, 221)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-01 13:10:43", "event_type": "Fire", "confidence": 0.7914, "details": "(122, 67, 165, 192)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-01 13:10:45", "event_type": "Fire", "confidence": 0.9078, "details": "(130, 59, 184, 188)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-01 13:10:48", "event_type": "Fire", "confidence": 0.7709, "details": "(137, 58, 180, 196)"}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-04-01 13:10:50", "event_type": "Fire", "confidence": 0.782, "details": "(139, 85, 179, 209)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 14:37:39", "event_type": "Gun", "confidence": 0.7588, "details": "(48, 1, 316, 240)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 14:37:49", "event_type": "Fire", "confidence": 0.8106, "details": "(142, 81, 205, 168)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 14:37:51", "event_type": "Fire", "confidence": 0.793, "details": "(148, 74, 203, 138)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-01 14:38:47", "event_type": "Fire", "confidence": 0.8759, "details": "(95, 115, 143, 221)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-01 14:38:50", "event_type": "Fire", "confidence": 0.9078, "details": "(130, 59, 184, 188)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-01 14:38:52", "event_type": "Fire", "confidence": 0.7709, "details": "(137, 58, 180, 196)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 14:39:23", "event_type": "Fire", "confidence": 0.8364, "details": "(47, 16, 120, 88)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 14:39:25", "event_type": "Fire", "confidence": 0.8142, "details": "(58, 19, 122, 96)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 14:39:28", "event_type": "Fire", "confidence": 0.8354, "details": "(30, 1, 110, 76)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 14:39:30", "event_type": "Fire", "confidence": 0.8757, "details": "(34, 11, 117, 86)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 14:39:33", "event_type": "Fire", "confidence": 0.8675, "details": "(46, 14, 132, 95)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-01 14:39:35", "event_type": "Fire", "confidence": 0.6054, "details": "(0, 44, 50, 86)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-01 14:39:48", "event_type": "Fire", "confidence": 0.7435, "details": "(1, 64, 88, 136)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-01 14:39:51", "event_type": "Fire", "confidence": 0.6599, "details": "(158, 79, 208, 125)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-01 14:39:58", "event_type": "Fire", "confidence": 0.8863, "details": "(9, 55, 69, 120)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 14:40:00", "event_type": "Fire", "confidence": 0.8626, "details": "(38, 37, 108, 112)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 14:40:04", "event_type": "Fire", "confidence": 0.855, "details": "(15, 7, 104, 101)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 14:40:07", "event_type": "Fire", "confidence": 0.7015, "details": "(162, 55, 285, 93)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 14:40:10", "event_type": "Fire", "confidence": 0.803, "details": "(1, 21, 82, 101)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 14:40:13", "event_type": "Fire", "confidence": 0.742, "details": "(24, 46, 97, 109)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 14:40:16", "event_type": "Fire", "confidence": 0.8594, "details": "(3, 43, 78, 116)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 14:40:20", "event_type": "Fire", "confidence": 0.8603, "details": "(6, 66, 63, 115)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 14:41:47", "event_type": "Gun", "confidence": 0.6065, "details": "(20, 0, 264, 239)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-01 14:42:14", "event_type": "Gun", "confidence": 0.8141, "details": "(58, 9, 319, 235)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 14:53:30", "event_type": "Violence", "confidence": 0.8995, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 14:53:32", "event_type": "Violence", "confidence": 0.8246, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 14:53:35", "event_type": "Violence", "confidence": 0.8871, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 14:53:37", "event_type": "Violence", "confidence": 0.9269, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-01 14:53:55", "event_type": "Violence", "confidence": 0.814, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 14:54:24", "event_type": "Violence", "confidence": 0.8154, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-01 14:54:27", "event_type": "Violence", "confidence": 0.8627, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-01 14:54:34", "event_type": "Violence", "confidence": 0.8009, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 14:54:40", "event_type": "Violence", "confidence": 0.8056, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 14:54:42", "event_type": "Violence", "confidence": 0.9831, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 14:54:44", "event_type": "Violence", "confidence": 0.973, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-01 14:54:46", "event_type": "Violence", "confidence": 0.8486, "details": ""}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-04-01 14:55:35", "event_type": "Violence", "confidence": 0.8022, "details": ""}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-04-01 14:55:50", "event_type": "Violence", "confidence": 0.8349, "details": ""}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-04-01 14:55:52", "event_type": "Violence", "confidence": 0.8495, "details": ""}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-04-01 14:55:54", "event_type": "Violence", "confidence": 0.8641, "details": ""}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-04-01 14:55:59", "event_type": "Violence", "confidence": 0.8685, "details": ""}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-04-01 14:56:01", "event_type": "Violence", "confidence": 0.8326, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 15:02:28", "event_type": "Violence", "confidence": 0.9222, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 15:02:30", "event_type": "Violence", "confidence": 0.9916, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 15:02:32", "event_type": "Violence", "confidence": 0.991, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 15:02:35", "event_type": "Violence", "confidence": 0.9913, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 15:02:38", "event_type": "Violence", "confidence": 0.9815, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 15:02:41", "event_type": "Violence", "confidence": 0.8506, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-01 15:02:41", "event_type": "Gun", "confidence": 0.4713, "details": "(2, 20, 306, 159)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 15:02:46", "event_type": "Violence", "confidence": 0.8277, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 15:02:48", "event_type": "Gun", "confidence": 0.4546, "details": "(0, 16, 271, 180)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-01 15:02:53", "event_type": "Violence", "confidence": 0.7145, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-01 15:03:17", "event_type": "Knife", "confidence": 0.4651, "details": "(189, 23, 271, 206)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-01 15:04:19", "event_type": "Gun", "confidence": 0.5137, "details": "(150, 14, 255, 161)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 15:04:58", "event_type": "Gun", "confidence": 0.5996, "details": "(104, 42, 224, 200)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-01 15:05:00", "event_type": "Gun", "confidence": 0.4616, "details": "(101, 42, 225, 200)"}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-01 15:05:13", "event_type": "Gun", "confidence": 0.5428, "details": "(93, 44, 220, 198)"}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-01 15:05:15", "event_type": "Gun", "confidence": 0.4789, "details": "(92, 44, 219, 198)"}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-01 15:05:29", "event_type": "Gun", "confidence": 0.5187, "details": "(124, 46, 218, 191)"}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-01 15:05:31", "event_type": "Gun", "confidence": 0.4574, "details": "(125, 45, 224, 189)"}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-01 15:05:34", "event_type": "Gun", "confidence": 0.575, "details": "(1, 45, 257, 196)"}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-01 15:05:36", "event_type": "Gun", "confidence": 0.4505, "details": "(2, 46, 229, 195)"}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-04-01 15:05:50", "event_type": "Gun", "confidence": 0.5208, "details": "(25, 23, 232, 237)"}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-04-01 15:05:52", "event_type": "Gun", "confidence": 0.752, "details": "(28, 5, 229, 240)"}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-04-01 15:05:57", "event_type": "Gun", "confidence": 0.4627, "details": "(25, 56, 268, 214)"}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-04-01 15:06:05", "event_type": "Gun", "confidence": 0.4814, "details": "(91, 22, 242, 240)"}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-04-01 15:06:09", "event_type": "Gun", "confidence": 0.456, "details": "(97, 21, 252, 179)"}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-04-01 15:06:13", "event_type": "Gun", "confidence": 0.4909, "details": "(104, 38, 273, 178)"}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-04-01 15:06:20", "event_type": "Gun", "confidence": 0.5065, "details": "(78, 63, 317, 239)"}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-04-01 15:06:23", "event_type": "Gun", "confidence": 0.5149, "details": "(15, 83, 315, 240)"}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-04-01 15:06:29", "event_type": "Gun", "confidence": 0.47, "details": "(92, 108, 267, 239)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-02 20:37:52", "event_type": "Gun", "confidence": 0.4707, "details": "(20, 0, 315, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-02 20:37:58", "event_type": "Gun", "confidence": 0.7588, "details": "(48, 1, 316, 240)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-02 20:38:11", "event_type": "Fire", "confidence": 0.8106, "details": "(142, 81, 205, 168)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-02 20:38:15", "event_type": "Fire", "confidence": 0.793, "details": "(148, 74, 203, 138)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-02 20:38:22", "event_type": "Fire", "confidence": 0.5356, "details": "(163, 67, 229, 169)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-02 20:39:32", "event_type": "Fire", "confidence": 0.8759, "details": "(95, 115, 143, 221)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-02 20:39:35", "event_type": "Fire", "confidence": 0.9078, "details": "(130, 59, 184, 188)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-02 20:39:39", "event_type": "Fire", "confidence": 0.7709, "details": "(137, 58, 180, 196)"}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-04-02 20:39:41", "event_type": "Fire", "confidence": 0.782, "details": "(139, 85, 179, 209)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-04-02 20:39:58", "event_type": "Gun", "confidence": 0.5345, "details": "(18, 7, 309, 117)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-02 20:41:23", "event_type": "Fire", "confidence": 0.8364, "details": "(47, 16, 120, 88)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-02 20:41:25", "event_type": "Fire", "confidence": 0.8142, "details": "(58, 19, 122, 96)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-02 20:41:28", "event_type": "Fire", "confidence": 0.8354, "details": "(30, 1, 110, 76)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-02 20:41:30", "event_type": "Fire", "confidence": 0.6877, "details": "(19, 0, 102, 75)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-02 20:41:32", "event_type": "Fire", "confidence": 0.8757, "details": "(34, 11, 117, 86)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-02 20:41:34", "event_type": "Fire", "confidence": 0.8515, "details": "(59, 17, 139, 95)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-02 20:41:36", "event_type": "Fire", "confidence": 0.8675, "details": "(46, 14, 132, 95)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-02 20:41:39", "event_type": "Fire", "confidence": 0.8404, "details": "(28, 11, 100, 89)"}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-02 20:41:51", "event_type": "Fire", "confidence": 0.5844, "details": "(0, 7, 55, 85)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-02 20:41:56", "event_type": "Fire", "confidence": 0.8364, "details": "(47, 16, 120, 88)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-02 20:41:59", "event_type": "Fire", "confidence": 0.8142, "details": "(58, 19, 122, 96)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-02 20:42:01", "event_type": "Fire", "confidence": 0.8354, "details": "(30, 1, 110, 76)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-02 20:42:04", "event_type": "Fire", "confidence": 0.8757, "details": "(34, 11, 117, 86)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-02 20:42:07", "event_type": "Fire", "confidence": 0.8675, "details": "(46, 14, 132, 95)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-02 20:42:09", "event_type": "Fire", "confidence": 0.6054, "details": "(0, 44, 50, 86)"}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-02 20:42:17", "event_type": "Fire", "confidence": 0.5844, "details": "(0, 7, 55, 85)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-02 20:42:24", "event_type": "Fire", "confidence": 0.7435, "details": "(1, 64, 88, 136)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-02 20:42:27", "event_type": "Fire", "confidence": 0.5919, "details": "(116, 79, 173, 126)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-02 20:42:31", "event_type": "Fire", "confidence": 0.5004, "details": "(173, 67, 243, 117)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-02 20:42:36", "event_type": "Fire", "confidence": 0.8863, "details": "(9, 55, 69, 120)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-02 20:42:39", "event_type": "Fire", "confidence": 0.8626, "details": "(38, 37, 108, 112)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-02 20:42:42", "event_type": "Fire", "confidence": 0.4781, "details": "(56, 2, 109, 82)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-02 20:42:45", "event_type": "Fire", "confidence": 0.8883, "details": "(19, 16, 91, 94)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-02 20:42:49", "event_type": "Fire", "confidence": 0.8788, "details": "(6, 22, 82, 98)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-02 20:42:52", "event_type": "Fire", "confidence": 0.9025, "details": "(6, 21, 89, 102)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-02 20:59:34", "event_type": "Violence", "confidence": 0.924, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-02 20:59:41", "event_type": "Violence", "confidence": 0.9001, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-02 21:00:51", "event_type": "Violence", "confidence": 0.9566, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-02 21:00:53", "event_type": "Violence", "confidence": 0.9859, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-02 21:00:56", "event_type": "Violence", "confidence": 0.973, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-02 21:00:58", "event_type": "Violence", "confidence": 0.9231, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-03 13:18:12", "event_type": "Gun", "confidence": 0.7588, "details": "(48, 1, 316, 240)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-03 13:18:38", "event_type": "Fire", "confidence": 0.8106, "details": "(142, 81, 205, 168)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-03 13:18:44", "event_type": "Fire", "confidence": 0.793, "details": "(148, 74, 203, 138)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-03 13:20:29", "event_type": "Fire", "confidence": 0.8759, "details": "(95, 115, 143, 221)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-03 13:20:32", "event_type": "Fire", "confidence": 0.7914, "details": "(122, 67, 165, 192)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-03 13:20:34", "event_type": "Fire", "confidence": 0.9078, "details": "(130, 59, 184, 188)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-03 13:20:38", "event_type": "Fire", "confidence": 0.7709, "details": "(137, 58, 180, 196)"}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-04-03 13:20:40", "event_type": "Fire", "confidence": 0.782, "details": "(139, 85, 179, 209)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-06 10:07:31", "event_type": "Gun", "confidence": 0.4707, "details": "(20, 0, 315, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-06 10:07:39", "event_type": "Gun", "confidence": 0.7588, "details": "(48, 1, 316, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-06 10:07:41", "event_type": "Gun", "confidence": 0.5295, "details": "(47, 0, 317, 240)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-06 10:07:44", "event_type": "Violence", "confidence": 0.9129, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-06 10:07:57", "event_type": "Fire", "confidence": 0.8106, "details": "(142, 81, 205, 168)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-06 10:07:59", "event_type": "Fire", "confidence": 0.5312, "details": "(131, 85, 201, 167)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-06 10:08:09", "event_type": "Fire", "confidence": 0.5356, "details": "(163, 67, 229, 169)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-06 10:09:23", "event_type": "Fire", "confidence": 0.8759, "details": "(95, 115, 143, 221)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-06 10:09:25", "event_type": "Fire", "confidence": 0.7914, "details": "(122, 67, 165, 192)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-06 10:09:30", "event_type": "Fire", "confidence": 0.7709, "details": "(137, 58, 180, 196)"}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-04-06 10:09:32", "event_type": "Fire", "confidence": 0.782, "details": "(139, 85, 179, 209)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-04-06 10:09:54", "event_type": "Gun", "confidence": 0.5345, "details": "(18, 7, 309, 117)"}
+{"timestamp_video": "0:00:25", "timestamp_wall": "2026-04-06 10:10:35", "event_type": "Gun", "confidence": 0.5723, "details": "(13, 0, 313, 128)"}
+{"timestamp_video": "0:00:27", "timestamp_wall": "2026-04-06 10:10:50", "event_type": "Gun", "confidence": 0.5035, "details": "(11, 0, 313, 107)"}
+{"timestamp_video": "0:00:28", "timestamp_wall": "2026-04-06 10:11:03", "event_type": "Gun", "confidence": 0.4927, "details": "(18, 0, 315, 100)"}
+{"timestamp_video": "0:00:30", "timestamp_wall": "2026-04-06 10:11:20", "event_type": "Gun", "confidence": 0.5708, "details": "(16, 1, 316, 123)"}
+{"timestamp_video": "0:00:30", "timestamp_wall": "2026-04-06 10:11:28", "event_type": "Gun", "confidence": 0.5867, "details": "(20, 32, 189, 116)"}
+{"timestamp_video": "0:00:36", "timestamp_wall": "2026-04-06 10:12:23", "event_type": "Gun", "confidence": 0.4621, "details": "(11, 2, 314, 125)"}
+{"timestamp_video": "0:00:37", "timestamp_wall": "2026-04-06 10:12:30", "event_type": "Gun", "confidence": 0.4659, "details": "(18, 9, 312, 125)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-06 10:15:07", "event_type": "Fire", "confidence": 0.8364, "details": "(47, 16, 120, 88)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-06 10:15:10", "event_type": "Fire", "confidence": 0.8142, "details": "(58, 19, 122, 96)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-06 10:15:13", "event_type": "Fire", "confidence": 0.8354, "details": "(30, 1, 110, 76)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-06 10:15:15", "event_type": "Fire", "confidence": 0.8757, "details": "(34, 11, 117, 86)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-06 10:15:18", "event_type": "Fire", "confidence": 0.8675, "details": "(46, 14, 132, 95)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-06 10:15:22", "event_type": "Fire", "confidence": 0.6054, "details": "(0, 44, 50, 86)"}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-06 10:15:29", "event_type": "Fire", "confidence": 0.5844, "details": "(0, 7, 55, 85)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-06 10:15:36", "event_type": "Fire", "confidence": 0.7435, "details": "(1, 64, 88, 136)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-06 10:15:38", "event_type": "Fire", "confidence": 0.5919, "details": "(116, 79, 173, 126)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-06 10:15:42", "event_type": "Fire", "confidence": 0.5004, "details": "(173, 67, 243, 117)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-06 10:15:46", "event_type": "Fire", "confidence": 0.8863, "details": "(9, 55, 69, 120)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-06 10:15:49", "event_type": "Fire", "confidence": 0.8626, "details": "(38, 37, 108, 112)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-06 10:15:52", "event_type": "Fire", "confidence": 0.4781, "details": "(56, 2, 109, 82)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-06 10:15:55", "event_type": "Fire", "confidence": 0.8883, "details": "(19, 16, 91, 94)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-06 10:15:57", "event_type": "Fire", "confidence": 0.8788, "details": "(6, 22, 82, 98)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-06 10:16:00", "event_type": "Fire", "confidence": 0.9025, "details": "(6, 21, 89, 102)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-06 10:16:03", "event_type": "Fire", "confidence": 0.8466, "details": "(28, 45, 97, 114)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-06 10:16:06", "event_type": "Fire", "confidence": 0.6472, "details": "(149, 72, 260, 113)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-06 10:16:09", "event_type": "Fire", "confidence": 0.8603, "details": "(6, 66, 63, 115)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-06 10:16:12", "event_type": "Fire", "confidence": 0.4962, "details": "(204, 91, 250, 118)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-06 10:16:14", "event_type": "Fire", "confidence": 0.6616, "details": "(0, 60, 65, 131)"}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-06 10:16:17", "event_type": "Fire", "confidence": 0.5546, "details": "(208, 87, 260, 120)"}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-06 10:16:20", "event_type": "Fire", "confidence": 0.4828, "details": "(217, 89, 268, 117)"}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-06 10:16:22", "event_type": "Fire", "confidence": 0.7174, "details": "(9, 41, 83, 120)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-06 10:16:26", "event_type": "Fire", "confidence": 0.7699, "details": "(245, 84, 294, 116)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-06 10:16:29", "event_type": "Fire", "confidence": 0.6851, "details": "(238, 78, 290, 114)"}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-06 10:16:32", "event_type": "Fire", "confidence": 0.6785, "details": "(238, 82, 286, 109)"}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-06 10:16:35", "event_type": "Fire", "confidence": 0.6774, "details": "(1, 15, 77, 117)"}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-06 10:16:38", "event_type": "Fire", "confidence": 0.8194, "details": "(9, 41, 76, 116)"}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-06 10:16:38", "event_type": "Smoke", "confidence": 0.5483, "details": "(0, 0, 98, 42)"}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-06 10:16:41", "event_type": "Fire", "confidence": 0.492, "details": "(1, 48, 72, 121)"}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-06 10:16:44", "event_type": "Fire", "confidence": 0.6129, "details": "(198, 91, 249, 120)"}
+{"timestamp_video": "0:00:14", "timestamp_wall": "2026-04-06 10:16:47", "event_type": "Fire", "confidence": 0.4929, "details": "(36, 91, 58, 130)"}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-04-06 10:16:54", "event_type": "Fire", "confidence": 0.5883, "details": "(200, 100, 247, 127)"}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-04-06 10:16:57", "event_type": "Fire", "confidence": 0.5357, "details": "(0, 62, 24, 100)"}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-04-06 10:17:05", "event_type": "Fire", "confidence": 0.6234, "details": "(1, 66, 27, 103)"}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-04-06 10:17:14", "event_type": "Fire", "confidence": 0.8433, "details": "(32, 1, 115, 77)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-06 10:17:17", "event_type": "Fire", "confidence": 0.8561, "details": "(62, 22, 126, 96)"}
+{"timestamp_video": "0:00:18", "timestamp_wall": "2026-04-06 10:17:20", "event_type": "Fire", "confidence": 0.8391, "details": "(45, 12, 121, 87)"}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-04-06 10:17:22", "event_type": "Fire", "confidence": 0.7662, "details": "(26, 1, 103, 75)"}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-04-06 10:17:25", "event_type": "Fire", "confidence": 0.8564, "details": "(60, 16, 138, 95)"}
+{"timestamp_video": "0:00:19", "timestamp_wall": "2026-04-06 10:17:28", "event_type": "Fire", "confidence": 0.9247, "details": "(12, 2, 92, 88)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-04-06 10:17:37", "event_type": "Fire", "confidence": 0.556, "details": "(0, 17, 41, 86)"}
+{"timestamp_video": "0:00:22", "timestamp_wall": "2026-04-06 10:17:47", "event_type": "Fire", "confidence": 0.4512, "details": "(76, 71, 141, 134)"}
+{"timestamp_video": "0:00:22", "timestamp_wall": "2026-04-06 10:17:51", "event_type": "Fire", "confidence": 0.5993, "details": "(159, 82, 211, 126)"}
+{"timestamp_video": "0:00:23", "timestamp_wall": "2026-04-06 10:17:56", "event_type": "Fire", "confidence": 0.5004, "details": "(0, 1, 54, 123)"}
+{"timestamp_video": "0:00:24", "timestamp_wall": "2026-04-06 10:17:59", "event_type": "Fire", "confidence": 0.7627, "details": "(25, 42, 92, 113)"}
+{"timestamp_video": "0:00:24", "timestamp_wall": "2026-04-06 10:18:02", "event_type": "Fire", "confidence": 0.8459, "details": "(51, 18, 136, 104)"}
+{"timestamp_video": "0:00:24", "timestamp_wall": "2026-04-06 10:18:04", "event_type": "Fire", "confidence": 0.8813, "details": "(55, 3, 121, 85)"}
+{"timestamp_video": "0:00:25", "timestamp_wall": "2026-04-06 10:18:07", "event_type": "Fire", "confidence": 0.8529, "details": "(18, 18, 90, 94)"}
+{"timestamp_video": "0:00:25", "timestamp_wall": "2026-04-06 10:18:10", "event_type": "Fire", "confidence": 0.8831, "details": "(4, 22, 79, 99)"}
+{"timestamp_video": "0:00:25", "timestamp_wall": "2026-04-06 10:18:13", "event_type": "Fire", "confidence": 0.8731, "details": "(19, 28, 90, 106)"}
+{"timestamp_video": "0:00:26", "timestamp_wall": "2026-04-06 10:18:15", "event_type": "Fire", "confidence": 0.891, "details": "(23, 42, 97, 117)"}
+{"timestamp_video": "0:00:26", "timestamp_wall": "2026-04-06 10:18:19", "event_type": "Fire", "confidence": 0.6527, "details": "(149, 71, 260, 113)"}
+{"timestamp_video": "0:00:27", "timestamp_wall": "2026-04-06 10:18:22", "event_type": "Fire", "confidence": 0.8082, "details": "(196, 32, 290, 116)"}
+{"timestamp_video": "0:00:27", "timestamp_wall": "2026-04-06 10:18:24", "event_type": "Fire", "confidence": 0.6347, "details": "(205, 89, 249, 117)"}
+{"timestamp_video": "0:00:27", "timestamp_wall": "2026-04-06 10:18:27", "event_type": "Fire", "confidence": 0.4702, "details": "(0, 60, 65, 131)"}
+{"timestamp_video": "0:00:28", "timestamp_wall": "2026-04-06 10:18:32", "event_type": "Fire", "confidence": 0.6217, "details": "(9, 78, 68, 132)"}
+{"timestamp_video": "0:00:28", "timestamp_wall": "2026-04-06 10:18:35", "event_type": "Fire", "confidence": 0.7202, "details": "(15, 52, 87, 129)"}
+{"timestamp_video": "0:00:29", "timestamp_wall": "2026-04-06 10:18:38", "event_type": "Fire", "confidence": 0.7469, "details": "(32, 57, 96, 125)"}
+{"timestamp_video": "0:00:29", "timestamp_wall": "2026-04-06 10:18:41", "event_type": "Fire", "confidence": 0.7133, "details": "(2, 31, 81, 129)"}
+{"timestamp_video": "0:00:30", "timestamp_wall": "2026-04-06 10:18:44", "event_type": "Fire", "confidence": 0.649, "details": "(235, 81, 287, 112)"}
+{"timestamp_video": "0:00:30", "timestamp_wall": "2026-04-06 10:18:47", "event_type": "Fire", "confidence": 0.8359, "details": "(4, 39, 81, 120)"}
+{"timestamp_video": "0:00:30", "timestamp_wall": "2026-04-06 10:18:51", "event_type": "Fire", "confidence": 0.8139, "details": "(13, 48, 75, 116)"}
+{"timestamp_video": "0:00:30", "timestamp_wall": "2026-04-06 10:18:51", "event_type": "Smoke", "confidence": 0.5441, "details": "(0, 0, 99, 43)"}
+{"timestamp_video": "0:00:31", "timestamp_wall": "2026-04-06 10:18:54", "event_type": "Fire", "confidence": 0.6775, "details": "(1, 48, 59, 120)"}
+{"timestamp_video": "0:00:31", "timestamp_wall": "2026-04-06 10:18:57", "event_type": "Fire", "confidence": 0.6906, "details": "(0, 57, 56, 126)"}
+{"timestamp_video": "0:00:32", "timestamp_wall": "2026-04-06 10:18:59", "event_type": "Fire", "confidence": 0.4985, "details": "(34, 90, 58, 131)"}
+{"timestamp_video": "0:00:33", "timestamp_wall": "2026-04-06 10:19:09", "event_type": "Fire", "confidence": 0.4991, "details": "(0, 59, 24, 136)"}
+{"timestamp_video": "0:00:34", "timestamp_wall": "2026-04-06 10:19:18", "event_type": "Fire", "confidence": 0.4832, "details": "(0, 65, 25, 98)"}
+{"timestamp_video": "0:00:35", "timestamp_wall": "2026-04-06 10:19:24", "event_type": "Fire", "confidence": 0.5991, "details": "(0, 52, 24, 115)"}
+{"timestamp_video": "0:00:35", "timestamp_wall": "2026-04-06 10:19:27", "event_type": "Fire", "confidence": 0.8511, "details": "(36, 1, 117, 79)"}
+{"timestamp_video": "0:00:36", "timestamp_wall": "2026-04-06 10:19:31", "event_type": "Fire", "confidence": 0.8425, "details": "(65, 22, 124, 95)"}
+{"timestamp_video": "0:00:36", "timestamp_wall": "2026-04-06 10:19:34", "event_type": "Fire", "confidence": 0.8462, "details": "(43, 6, 117, 87)"}
+{"timestamp_video": "0:00:37", "timestamp_wall": "2026-04-06 10:19:37", "event_type": "Fire", "confidence": 0.8233, "details": "(21, 2, 106, 81)"}
+{"timestamp_video": "0:00:37", "timestamp_wall": "2026-04-06 10:19:40", "event_type": "Fire", "confidence": 0.8566, "details": "(62, 18, 136, 94)"}
+{"timestamp_video": "0:00:37", "timestamp_wall": "2026-04-06 10:19:43", "event_type": "Fire", "confidence": 0.8882, "details": "(1, 4, 77, 94)"}
+{"timestamp_video": "0:00:38", "timestamp_wall": "2026-04-06 10:19:50", "event_type": "Fire", "confidence": 0.465, "details": "(0, 20, 36, 86)"}
+{"timestamp_video": "0:00:40", "timestamp_wall": "2026-04-06 10:20:02", "event_type": "Fire", "confidence": 0.7839, "details": "(139, 82, 192, 124)"}
+{"timestamp_video": "0:00:41", "timestamp_wall": "2026-04-06 10:20:09", "event_type": "Fire", "confidence": 0.7033, "details": "(0, 55, 44, 122)"}
+{"timestamp_video": "0:00:41", "timestamp_wall": "2026-04-06 10:20:12", "event_type": "Fire", "confidence": 0.632, "details": "(0, 48, 59, 123)"}
+{"timestamp_video": "0:00:42", "timestamp_wall": "2026-04-06 10:20:15", "event_type": "Fire", "confidence": 0.7933, "details": "(35, 40, 101, 114)"}
+{"timestamp_video": "0:00:42", "timestamp_wall": "2026-04-06 10:20:18", "event_type": "Fire", "confidence": 0.8888, "details": "(52, 12, 139, 99)"}
+{"timestamp_video": "0:00:42", "timestamp_wall": "2026-04-06 10:20:20", "event_type": "Fire", "confidence": 0.8722, "details": "(28, 13, 97, 92)"}
+{"timestamp_video": "0:00:43", "timestamp_wall": "2026-04-06 10:20:22", "event_type": "Fire", "confidence": 0.8685, "details": "(10, 17, 82, 91)"}
+{"timestamp_video": "0:00:43", "timestamp_wall": "2026-04-06 10:20:25", "event_type": "Fire", "confidence": 0.8643, "details": "(6, 25, 77, 100)"}
+{"timestamp_video": "0:00:43", "timestamp_wall": "2026-04-06 10:20:28", "event_type": "Fire", "confidence": 0.8218, "details": "(19, 34, 92, 106)"}
+{"timestamp_video": "0:00:44", "timestamp_wall": "2026-04-06 10:20:31", "event_type": "Fire", "confidence": 0.8565, "details": "(14, 39, 92, 116)"}
+{"timestamp_video": "0:00:44", "timestamp_wall": "2026-04-06 10:20:34", "event_type": "Fire", "confidence": 0.6892, "details": "(148, 70, 261, 113)"}
+{"timestamp_video": "0:00:45", "timestamp_wall": "2026-04-06 10:20:36", "event_type": "Fire", "confidence": 0.8519, "details": "(196, 75, 249, 113)"}
+{"timestamp_video": "0:00:45", "timestamp_wall": "2026-04-06 10:20:39", "event_type": "Fire", "confidence": 0.6476, "details": "(205, 93, 250, 118)"}
+{"timestamp_video": "0:00:45", "timestamp_wall": "2026-04-06 10:20:42", "event_type": "Fire", "confidence": 0.7099, "details": "(205, 95, 255, 122)"}
+{"timestamp_video": "0:00:46", "timestamp_wall": "2026-04-06 10:20:45", "event_type": "Fire", "confidence": 0.5359, "details": "(206, 104, 253, 119)"}
+{"timestamp_video": "0:00:47", "timestamp_wall": "2026-04-06 10:20:50", "event_type": "Fire", "confidence": 0.6596, "details": "(250, 90, 299, 115)"}
+{"timestamp_video": "0:00:47", "timestamp_wall": "2026-04-06 10:20:53", "event_type": "Fire", "confidence": 0.8579, "details": "(13, 46, 86, 132)"}
+{"timestamp_video": "0:00:48", "timestamp_wall": "2026-04-06 10:20:57", "event_type": "Fire", "confidence": 0.7719, "details": "(2, 47, 74, 118)"}
+{"timestamp_video": "0:00:48", "timestamp_wall": "2026-04-06 10:21:00", "event_type": "Fire", "confidence": 0.7457, "details": "(2, 39, 79, 119)"}
+{"timestamp_video": "0:00:48", "timestamp_wall": "2026-04-06 10:21:03", "event_type": "Fire", "confidence": 0.8703, "details": "(7, 40, 76, 116)"}
+{"timestamp_video": "0:00:49", "timestamp_wall": "2026-04-06 10:21:06", "event_type": "Fire", "confidence": 0.6076, "details": "(0, 47, 62, 122)"}
+{"timestamp_video": "0:00:50", "timestamp_wall": "2026-04-06 10:21:14", "event_type": "Fire", "confidence": 0.5826, "details": "(0, 71, 21, 104)"}
+{"timestamp_video": "0:00:51", "timestamp_wall": "2026-04-06 10:21:22", "event_type": "Fire", "confidence": 0.6966, "details": "(1, 75, 25, 125)"}
+{"timestamp_video": "0:00:51", "timestamp_wall": "2026-04-06 10:21:25", "event_type": "Fire", "confidence": 0.4931, "details": "(0, 63, 24, 134)"}
+{"timestamp_video": "0:00:52", "timestamp_wall": "2026-04-06 10:21:33", "event_type": "Fire", "confidence": 0.5388, "details": "(42, 98, 70, 134)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-09 13:16:53", "event_type": "Fire", "confidence": 0.8364, "details": "(47, 16, 120, 88)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-09 13:16:56", "event_type": "Fire", "confidence": 0.8142, "details": "(58, 19, 122, 96)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-09 13:16:59", "event_type": "Fire", "confidence": 0.8354, "details": "(30, 1, 110, 76)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-09 13:17:01", "event_type": "Fire", "confidence": 0.8757, "details": "(34, 11, 117, 86)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-09 13:17:04", "event_type": "Fire", "confidence": 0.8675, "details": "(46, 14, 132, 95)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-09 13:17:07", "event_type": "Fire", "confidence": 0.6054, "details": "(0, 44, 50, 86)"}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-09 13:17:14", "event_type": "Fire", "confidence": 0.5844, "details": "(0, 7, 55, 85)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-09 13:17:20", "event_type": "Fire", "confidence": 0.7435, "details": "(1, 64, 88, 136)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-09 13:17:23", "event_type": "Fire", "confidence": 0.5919, "details": "(116, 79, 173, 126)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-09 13:17:26", "event_type": "Fire", "confidence": 0.5004, "details": "(173, 67, 243, 117)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-09 13:17:30", "event_type": "Fire", "confidence": 0.8863, "details": "(9, 55, 69, 120)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-09 13:17:33", "event_type": "Fire", "confidence": 0.8626, "details": "(38, 37, 108, 112)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-09 13:17:36", "event_type": "Fire", "confidence": 0.4781, "details": "(56, 2, 109, 82)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-09 13:17:39", "event_type": "Fire", "confidence": 0.8883, "details": "(19, 16, 91, 94)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-09 13:17:41", "event_type": "Fire", "confidence": 0.7015, "details": "(162, 55, 285, 93)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-09 13:17:44", "event_type": "Fire", "confidence": 0.803, "details": "(1, 21, 82, 101)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-09 13:17:47", "event_type": "Fire", "confidence": 0.742, "details": "(24, 46, 97, 109)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-09 13:17:50", "event_type": "Fire", "confidence": 0.8594, "details": "(3, 43, 78, 116)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-09 13:17:53", "event_type": "Fire", "confidence": 0.8603, "details": "(6, 66, 63, 115)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-09 13:17:55", "event_type": "Fire", "confidence": 0.4962, "details": "(204, 91, 250, 118)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-09 13:17:58", "event_type": "Fire", "confidence": 0.6616, "details": "(0, 60, 65, 131)"}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-09 13:18:01", "event_type": "Fire", "confidence": 0.5546, "details": "(208, 87, 260, 120)"}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-09 13:18:03", "event_type": "Fire", "confidence": 0.4828, "details": "(217, 89, 268, 117)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-09 13:18:06", "event_type": "Fire", "confidence": 0.4605, "details": "(26, 55, 63, 121)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-09 13:18:09", "event_type": "Fire", "confidence": 0.7699, "details": "(245, 84, 294, 116)"}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-09 13:18:11", "event_type": "Fire", "confidence": 0.6851, "details": "(238, 78, 290, 114)"}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-09 13:18:14", "event_type": "Fire", "confidence": 0.6785, "details": "(238, 82, 286, 109)"}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-09 13:18:16", "event_type": "Fire", "confidence": 0.6774, "details": "(1, 15, 77, 117)"}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-09 13:18:17", "event_type": "Smoke", "confidence": 0.5483, "details": "(0, 0, 98, 42)"}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-09 13:18:18", "event_type": "Fire", "confidence": 0.7735, "details": "(1, 45, 75, 118)"}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-09 13:18:21", "event_type": "Fire", "confidence": 0.694, "details": "(0, 80, 32, 118)"}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-09 13:18:24", "event_type": "Fire", "confidence": 0.6875, "details": "(33, 89, 56, 128)"}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-04-09 13:18:32", "event_type": "Fire", "confidence": 0.5883, "details": "(200, 100, 247, 127)"}
+{"timestamp_video": "0:00:15", "timestamp_wall": "2026-04-09 13:18:34", "event_type": "Fire", "confidence": 0.5357, "details": "(0, 62, 24, 100)"}
+{"timestamp_video": "0:00:16", "timestamp_wall": "2026-04-09 13:18:41", "event_type": "Fire", "confidence": 0.6234, "details": "(1, 66, 27, 103)"}
+{"timestamp_video": "0:00:17", "timestamp_wall": "2026-04-09 13:18:50", "event_type": "Fire", "confidence": 0.8433, "details": "(32, 1, 115, 77)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-09 13:20:14", "event_type": "Gun", "confidence": 0.4707, "details": "(20, 0, 315, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-09 13:20:21", "event_type": "Gun", "confidence": 0.7588, "details": "(48, 1, 316, 240)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-09 13:20:44", "event_type": "Fire", "confidence": 0.8106, "details": "(142, 81, 205, 168)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-09 13:20:47", "event_type": "Fire", "confidence": 0.793, "details": "(148, 74, 203, 138)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-09 13:20:54", "event_type": "Fire", "confidence": 0.5356, "details": "(163, 67, 229, 169)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-09 13:24:27", "event_type": "Violence", "confidence": 0.65, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-09 13:24:48", "event_type": "Violence", "confidence": 0.7139, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-09 13:25:15", "event_type": "Violence", "confidence": 0.9222, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-09 13:25:18", "event_type": "Violence", "confidence": 0.9916, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-09 13:25:20", "event_type": "Violence", "confidence": 0.9926, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-09 13:25:23", "event_type": "Violence", "confidence": 0.9771, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-09 13:25:27", "event_type": "Violence", "confidence": 0.8506, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-09 13:25:34", "event_type": "Violence", "confidence": 0.8277, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 00:48:36", "event_type": "Smoke", "confidence": 0.451, "details": "(147, 56, 214, 128)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 00:50:03", "event_type": "Fire", "confidence": 0.5524, "details": "(61, 190, 85, 226)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 00:50:05", "event_type": "Fire", "confidence": 0.6057, "details": "(180, 4, 200, 25)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 00:50:15", "event_type": "Fire", "confidence": 0.8639, "details": "(82, 4, 247, 136)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 00:50:39", "event_type": "Fire", "confidence": 0.5524, "details": "(61, 190, 85, 226)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 00:50:42", "event_type": "Fire", "confidence": 0.6057, "details": "(180, 4, 200, 25)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 00:50:51", "event_type": "Fire", "confidence": 0.8639, "details": "(82, 4, 247, 136)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 00:51:13", "event_type": "Fire", "confidence": 0.8639, "details": "(82, 4, 247, 136)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 00:52:10", "event_type": "Violence", "confidence": 0.8922, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 00:52:12", "event_type": "Violence", "confidence": 0.9854, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 00:52:14", "event_type": "Violence", "confidence": 0.9659, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 00:52:16", "event_type": "Violence", "confidence": 0.984, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 00:52:19", "event_type": "Violence", "confidence": 0.9797, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 00:52:21", "event_type": "Violence", "confidence": 0.9501, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 00:52:23", "event_type": "Violence", "confidence": 0.9638, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 00:52:25", "event_type": "Violence", "confidence": 0.9726, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 00:52:27", "event_type": "Violence", "confidence": 0.8314, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 00:52:29", "event_type": "Violence", "confidence": 0.8935, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 00:52:31", "event_type": "Violence", "confidence": 0.8666, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 00:52:34", "event_type": "Violence", "confidence": 0.8278, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 00:52:36", "event_type": "Violence", "confidence": 0.8228, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 00:52:39", "event_type": "Violence", "confidence": 0.9506, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 00:52:41", "event_type": "Violence", "confidence": 0.8598, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 00:55:52", "event_type": "Violence", "confidence": 0.8591, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 00:55:56", "event_type": "Violence", "confidence": 0.9326, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 00:55:58", "event_type": "Violence", "confidence": 0.9557, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 00:56:00", "event_type": "Violence", "confidence": 0.9768, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 00:56:03", "event_type": "Violence", "confidence": 0.9398, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 00:56:05", "event_type": "Violence", "confidence": 0.8654, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 00:56:08", "event_type": "Violence", "confidence": 0.8375, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 00:56:10", "event_type": "Violence", "confidence": 0.9768, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 00:56:12", "event_type": "Violence", "confidence": 0.9497, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 00:56:15", "event_type": "Violence", "confidence": 0.9677, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 00:56:30", "event_type": "Violence", "confidence": 0.8922, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 00:56:32", "event_type": "Violence", "confidence": 0.9854, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 00:56:34", "event_type": "Violence", "confidence": 0.8593, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 00:56:36", "event_type": "Violence", "confidence": 0.984, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 00:56:38", "event_type": "Violence", "confidence": 0.9797, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 00:56:40", "event_type": "Violence", "confidence": 0.9501, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 00:56:43", "event_type": "Violence", "confidence": 0.9833, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 00:56:45", "event_type": "Violence", "confidence": 0.9535, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 00:56:47", "event_type": "Violence", "confidence": 0.889, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 00:56:49", "event_type": "Violence", "confidence": 0.8789, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 00:56:52", "event_type": "Violence", "confidence": 0.8666, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 00:56:54", "event_type": "Violence", "confidence": 0.8278, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 00:56:56", "event_type": "Violence", "confidence": 0.8228, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 00:56:58", "event_type": "Violence", "confidence": 0.9506, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 00:57:01", "event_type": "Violence", "confidence": 0.8598, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 00:57:09", "event_type": "Violence", "confidence": 0.9222, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 00:57:11", "event_type": "Violence", "confidence": 0.991, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 00:57:13", "event_type": "Violence", "confidence": 0.9815, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 00:57:15", "event_type": "Violence", "confidence": 0.8506, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 00:57:19", "event_type": "Violence", "confidence": 0.8277, "details": ""}
+{"timestamp_video": "0:00:13", "timestamp_wall": "2026-04-11 01:01:40", "event_type": "Violence", "confidence": 0.8046, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 01:05:38", "event_type": "Violence", "confidence": 0.8375, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 01:05:40", "event_type": "Violence", "confidence": 0.8988, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 01:05:43", "event_type": "Violence", "confidence": 0.9764, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 01:05:45", "event_type": "Violence", "confidence": 0.9627, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 01:05:47", "event_type": "Violence", "confidence": 0.8974, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 01:05:53", "event_type": "Violence", "confidence": 0.8044, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 01:05:55", "event_type": "Violence", "confidence": 0.9142, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 01:06:02", "event_type": "Violence", "confidence": 0.8257, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 01:06:10", "event_type": "Violence", "confidence": 0.8909, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 01:06:12", "event_type": "Violence", "confidence": 0.8707, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 01:06:14", "event_type": "Violence", "confidence": 0.826, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 01:06:16", "event_type": "Violence", "confidence": 0.8812, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 01:06:18", "event_type": "Violence", "confidence": 0.8785, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 01:06:27", "event_type": "Violence", "confidence": 0.8205, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 01:06:31", "event_type": "Violence", "confidence": 0.8231, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 01:06:45", "event_type": "Violence", "confidence": 0.8332, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 01:06:50", "event_type": "Violence", "confidence": 0.83, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 01:06:53", "event_type": "Violence", "confidence": 0.895, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-11 01:06:55", "event_type": "Violence", "confidence": 0.983, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-11 01:06:58", "event_type": "Violence", "confidence": 0.9101, "details": ""}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-11 01:07:01", "event_type": "Violence", "confidence": 0.82, "details": ""}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-11 01:07:09", "event_type": "Violence", "confidence": 0.8589, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 01:07:46", "event_type": "Violence", "confidence": 0.9022, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 01:07:48", "event_type": "Violence", "confidence": 0.9244, "details": ""}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-11 01:10:21", "event_type": "Violence", "confidence": 0.8718, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-11 01:10:25", "event_type": "Violence", "confidence": 0.9054, "details": ""}
+{"timestamp_video": "0:00:10", "timestamp_wall": "2026-04-11 01:10:27", "event_type": "Violence", "confidence": 0.9417, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-11 01:10:29", "event_type": "Violence", "confidence": 0.805, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-11 01:10:31", "event_type": "Violence", "confidence": 0.8509, "details": ""}
+{"timestamp_video": "0:00:11", "timestamp_wall": "2026-04-11 01:10:33", "event_type": "Violence", "confidence": 0.8524, "details": ""}
+{"timestamp_video": "0:00:12", "timestamp_wall": "2026-04-11 01:10:37", "event_type": "Violence", "confidence": 0.8213, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 01:13:34", "event_type": "Gun", "confidence": 0.8141, "details": "(58, 9, 319, 235)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 10:27:55", "event_type": "Gun", "confidence": 0.4707, "details": "(20, 0, 315, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 10:28:02", "event_type": "Gun", "confidence": 0.7588, "details": "(48, 1, 316, 240)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-11 10:28:15", "event_type": "Fire", "confidence": 0.8106, "details": "(142, 81, 205, 168)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-11 10:28:18", "event_type": "Fire", "confidence": 0.793, "details": "(148, 74, 203, 138)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-11 10:28:25", "event_type": "Fire", "confidence": 0.5356, "details": "(163, 67, 229, 169)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 10:29:37", "event_type": "Gun", "confidence": 0.6869, "details": "(40, 58, 215, 155)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 10:29:39", "event_type": "Gun", "confidence": 0.6829, "details": "(39, 57, 214, 154)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 10:29:42", "event_type": "Gun", "confidence": 0.6892, "details": "(25, 58, 209, 153)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 10:29:45", "event_type": "Gun", "confidence": 0.6795, "details": "(16, 57, 197, 153)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 10:29:49", "event_type": "Gun", "confidence": 0.6558, "details": "(13, 53, 187, 150)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 10:29:52", "event_type": "Gun", "confidence": 0.5777, "details": "(10, 53, 184, 149)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 10:29:57", "event_type": "Gun", "confidence": 0.6739, "details": "(20, 51, 190, 144)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 10:29:59", "event_type": "Gun", "confidence": 0.5715, "details": "(29, 49, 202, 146)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 10:30:02", "event_type": "Gun", "confidence": 0.5778, "details": "(39, 49, 218, 143)"}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 10:30:04", "event_type": "Gun", "confidence": 0.5941, "details": "(47, 48, 224, 146)"}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 10:30:07", "event_type": "Gun", "confidence": 0.5877, "details": "(53, 48, 229, 148)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 10:30:08", "event_type": "Fire", "confidence": 0.8364, "details": "(47, 16, 120, 88)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 10:30:11", "event_type": "Fire", "confidence": 0.8142, "details": "(58, 19, 122, 96)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 10:30:14", "event_type": "Fire", "confidence": 0.8354, "details": "(30, 1, 110, 76)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 10:30:16", "event_type": "Fire", "confidence": 0.8757, "details": "(34, 11, 117, 86)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 10:30:19", "event_type": "Fire", "confidence": 0.8675, "details": "(46, 14, 132, 95)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 10:30:22", "event_type": "Fire", "confidence": 0.6054, "details": "(0, 44, 50, 86)"}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 10:30:31", "event_type": "Fire", "confidence": 0.5844, "details": "(0, 7, 55, 85)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 10:30:38", "event_type": "Fire", "confidence": 0.7435, "details": "(1, 64, 88, 136)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 10:30:41", "event_type": "Fire", "confidence": 0.5919, "details": "(116, 79, 173, 126)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 10:30:45", "event_type": "Fire", "confidence": 0.5004, "details": "(173, 67, 243, 117)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 10:30:50", "event_type": "Fire", "confidence": 0.8863, "details": "(9, 55, 69, 120)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 10:30:53", "event_type": "Fire", "confidence": 0.8626, "details": "(38, 37, 108, 112)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 10:30:56", "event_type": "Fire", "confidence": 0.4781, "details": "(56, 2, 109, 82)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-11 10:30:59", "event_type": "Fire", "confidence": 0.8883, "details": "(19, 16, 91, 94)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-11 10:31:02", "event_type": "Fire", "confidence": 0.8788, "details": "(6, 22, 82, 98)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-11 10:31:04", "event_type": "Fire", "confidence": 0.803, "details": "(1, 21, 82, 101)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 10:37:06", "event_type": "Smoke", "confidence": 0.451, "details": "(147, 56, 214, 128)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 10:37:30", "event_type": "Fire", "confidence": 0.5524, "details": "(61, 190, 85, 226)"}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 10:37:33", "event_type": "Fire", "confidence": 0.6057, "details": "(180, 4, 200, 25)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 10:37:45", "event_type": "Fire", "confidence": 0.8639, "details": "(82, 4, 247, 136)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 10:37:48", "event_type": "Fire", "confidence": 0.8963, "details": "(34, 7, 274, 232)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 10:39:05", "event_type": "Gun", "confidence": 0.4707, "details": "(20, 0, 315, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 10:39:11", "event_type": "Gun", "confidence": 0.7588, "details": "(48, 1, 316, 240)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-11 10:39:25", "event_type": "Fire", "confidence": 0.8106, "details": "(142, 81, 205, 168)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-11 10:39:28", "event_type": "Fire", "confidence": 0.793, "details": "(148, 74, 203, 138)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-11 10:39:35", "event_type": "Fire", "confidence": 0.5356, "details": "(163, 67, 229, 169)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 10:42:25", "event_type": "Violence", "confidence": 0.9807, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 10:45:40", "event_type": "Violence", "confidence": 0.8922, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 10:45:42", "event_type": "Violence", "confidence": 0.9879, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 10:45:45", "event_type": "Violence", "confidence": 0.9574, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 10:45:47", "event_type": "Violence", "confidence": 0.951, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 10:45:50", "event_type": "Violence", "confidence": 0.984, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 10:45:52", "event_type": "Violence", "confidence": 0.9797, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 10:45:54", "event_type": "Violence", "confidence": 0.9303, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 10:45:57", "event_type": "Violence", "confidence": 0.9387, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 10:45:59", "event_type": "Violence", "confidence": 0.9723, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 10:46:01", "event_type": "Violence", "confidence": 0.9382, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 10:46:04", "event_type": "Violence", "confidence": 0.8664, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 10:46:06", "event_type": "Violence", "confidence": 0.8789, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 10:46:08", "event_type": "Violence", "confidence": 0.8666, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 10:46:11", "event_type": "Violence", "confidence": 0.686, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 10:46:13", "event_type": "Violence", "confidence": 0.8502, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 10:46:16", "event_type": "Violence", "confidence": 0.9098, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 10:46:18", "event_type": "Violence", "confidence": 0.9529, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 10:46:20", "event_type": "Violence", "confidence": 0.8598, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 11:01:50", "event_type": "Gun", "confidence": 0.4707, "details": "(20, 0, 315, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 11:01:55", "event_type": "Gun", "confidence": 0.7588, "details": "(48, 1, 316, 240)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-04-11 11:03:11", "event_type": "Gun", "confidence": 0.5345, "details": "(18, 7, 309, 117)"}
+{"timestamp_video": "0:00:25", "timestamp_wall": "2026-04-11 11:03:33", "event_type": "Gun", "confidence": 0.5723, "details": "(13, 0, 313, 128)"}
+{"timestamp_video": "0:00:27", "timestamp_wall": "2026-04-11 11:03:39", "event_type": "Gun", "confidence": 0.5035, "details": "(11, 0, 313, 107)"}
+{"timestamp_video": "0:00:28", "timestamp_wall": "2026-04-11 11:03:45", "event_type": "Gun", "confidence": 0.4927, "details": "(18, 0, 315, 100)"}
+{"timestamp_video": "0:00:30", "timestamp_wall": "2026-04-11 11:03:56", "event_type": "Gun", "confidence": 0.5708, "details": "(16, 1, 316, 123)"}
+{"timestamp_video": "0:00:30", "timestamp_wall": "2026-04-11 11:04:00", "event_type": "Gun", "confidence": 0.5867, "details": "(20, 32, 189, 116)"}
+{"timestamp_video": "0:00:36", "timestamp_wall": "2026-04-11 11:04:27", "event_type": "Gun", "confidence": 0.4621, "details": "(11, 2, 314, 125)"}
+{"timestamp_video": "0:00:37", "timestamp_wall": "2026-04-11 11:04:30", "event_type": "Gun", "confidence": 0.4659, "details": "(18, 9, 312, 125)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 11:10:55", "event_type": "Gun", "confidence": 0.4707, "details": "(20, 0, 315, 240)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 11:10:59", "event_type": "Gun", "confidence": 0.7588, "details": "(48, 1, 316, 240)"}
+{"timestamp_video": "0:00:21", "timestamp_wall": "2026-04-11 11:12:20", "event_type": "Gun", "confidence": 0.5345, "details": "(18, 7, 309, 117)"}
+{"timestamp_video": "0:00:25", "timestamp_wall": "2026-04-11 11:12:42", "event_type": "Gun", "confidence": 0.5723, "details": "(13, 0, 313, 128)"}
+{"timestamp_video": "0:00:27", "timestamp_wall": "2026-04-11 11:12:49", "event_type": "Gun", "confidence": 0.5035, "details": "(11, 0, 313, 107)"}
+{"timestamp_video": "0:00:28", "timestamp_wall": "2026-04-11 11:12:55", "event_type": "Gun", "confidence": 0.4927, "details": "(18, 0, 315, 100)"}
+{"timestamp_video": "0:00:30", "timestamp_wall": "2026-04-11 11:13:04", "event_type": "Gun", "confidence": 0.5708, "details": "(16, 1, 316, 123)"}
+{"timestamp_video": "0:00:30", "timestamp_wall": "2026-04-11 11:13:08", "event_type": "Gun", "confidence": 0.5867, "details": "(20, 32, 189, 116)"}
+{"timestamp_video": "0:00:36", "timestamp_wall": "2026-04-11 11:13:37", "event_type": "Gun", "confidence": 0.4621, "details": "(11, 2, 314, 125)"}
+{"timestamp_video": "0:00:37", "timestamp_wall": "2026-04-11 11:13:39", "event_type": "Gun", "confidence": 0.4659, "details": "(18, 9, 312, 125)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 11:14:23", "event_type": "Fire", "confidence": 0.8364, "details": "(47, 16, 120, 88)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 11:14:26", "event_type": "Fire", "confidence": 0.8392, "details": "(48, 14, 122, 88)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 11:14:28", "event_type": "Fire", "confidence": 0.6877, "details": "(19, 0, 102, 75)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 11:14:30", "event_type": "Fire", "confidence": 0.8515, "details": "(59, 17, 139, 95)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 11:14:32", "event_type": "Fire", "confidence": 0.8404, "details": "(28, 11, 100, 89)"}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 11:14:40", "event_type": "Fire", "confidence": 0.5844, "details": "(0, 7, 55, 85)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 11:14:46", "event_type": "Fire", "confidence": 0.7435, "details": "(1, 64, 88, 136)"}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 11:14:49", "event_type": "Fire", "confidence": 0.5919, "details": "(116, 79, 173, 126)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 11:14:52", "event_type": "Fire", "confidence": 0.5004, "details": "(173, 67, 243, 117)"}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 11:14:56", "event_type": "Fire", "confidence": 0.8863, "details": "(9, 55, 69, 120)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 11:14:58", "event_type": "Fire", "confidence": 0.8626, "details": "(38, 37, 108, 112)"}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 11:15:01", "event_type": "Fire", "confidence": 0.4781, "details": "(56, 2, 109, 82)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-11 11:15:03", "event_type": "Fire", "confidence": 0.8883, "details": "(19, 16, 91, 94)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-11 11:15:05", "event_type": "Fire", "confidence": 0.8788, "details": "(6, 22, 82, 98)"}
+{"timestamp_video": "0:00:07", "timestamp_wall": "2026-04-11 11:15:08", "event_type": "Fire", "confidence": 0.9025, "details": "(6, 21, 89, 102)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-11 11:15:10", "event_type": "Fire", "confidence": 0.8466, "details": "(28, 45, 97, 114)"}
+{"timestamp_video": "0:00:08", "timestamp_wall": "2026-04-11 11:15:12", "event_type": "Fire", "confidence": 0.6472, "details": "(149, 72, 260, 113)"}
+{"timestamp_video": "0:00:09", "timestamp_wall": "2026-04-11 11:15:15", "event_type": "Fire", "confidence": 0.8603, "details": "(6, 66, 63, 115)"}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 11:16:06", "event_type": "Violence", "confidence": 0.8922, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 11:16:08", "event_type": "Violence", "confidence": 0.9879, "details": ""}
+{"timestamp_video": "0:00:00", "timestamp_wall": "2026-04-11 11:16:11", "event_type": "Violence", "confidence": 0.9507, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 11:16:13", "event_type": "Violence", "confidence": 0.9728, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 11:16:15", "event_type": "Violence", "confidence": 0.973, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-11 11:16:18", "event_type": "Violence", "confidence": 0.8621, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 11:16:20", "event_type": "Violence", "confidence": 0.9618, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-11 11:16:22", "event_type": "Violence", "confidence": 0.9638, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 11:16:25", "event_type": "Violence", "confidence": 0.9726, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 11:16:27", "event_type": "Violence", "confidence": 0.8314, "details": ""}
+{"timestamp_video": "0:00:03", "timestamp_wall": "2026-04-11 11:16:29", "event_type": "Violence", "confidence": 0.8755, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 11:16:32", "event_type": "Violence", "confidence": 0.8925, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 11:16:34", "event_type": "Violence", "confidence": 0.8497, "details": ""}
+{"timestamp_video": "0:00:04", "timestamp_wall": "2026-04-11 11:16:36", "event_type": "Violence", "confidence": 0.8278, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 11:16:39", "event_type": "Violence", "confidence": 0.8228, "details": ""}
+{"timestamp_video": "0:00:05", "timestamp_wall": "2026-04-11 11:16:42", "event_type": "Violence", "confidence": 0.9506, "details": ""}
+{"timestamp_video": "0:00:06", "timestamp_wall": "2026-04-11 11:16:45", "event_type": "Violence", "confidence": 0.8598, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-14 17:27:56", "event_type": "Gun", "confidence": 0.6475, "details": "(94, 0, 285, 204)"}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-14 17:27:59", "event_type": "Violence", "confidence": 0.8375, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-14 17:28:02", "event_type": "Violence", "confidence": 0.8517, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-14 17:28:04", "event_type": "Violence", "confidence": 0.9297, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-14 17:28:06", "event_type": "Violence", "confidence": 0.9764, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-14 17:28:09", "event_type": "Violence", "confidence": 0.9743, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-14 17:28:11", "event_type": "Violence", "confidence": 0.9519, "details": ""}
+{"timestamp_video": "0:00:02", "timestamp_wall": "2026-04-14 17:28:14", "event_type": "Violence", "confidence": 0.8974, "details": ""}
+{"timestamp_video": "0:00:01", "timestamp_wall": "2026-04-14 17:28:49", "event_type": "Gun", "confidence": 0.6475, "details": "(94, 0, 285, 204)"}

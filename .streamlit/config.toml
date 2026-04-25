@@ -1,0 +1,13 @@
+[global]
+suppressDeprecationWarnings = true
+
+[server]
+maxMessageSize = 512
+enableWebsocketCompression = false
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
+
+[logger]
+level = "error"
